@@ -1,4 +1,4 @@
-Explication détaillée par étapes :
+Explication détaillée par étapes de fichier main.py dans chatbot-nlp-anayzer:
 1. Chargement des données JSON (load_conversations)
 Parcourt un dossier contenant plusieurs fichiers JSON (chacun représentant une session de conversation).
 
@@ -147,4 +147,43 @@ Affiche un aperçu des résultats.
 
 En résumé
 Le script traite automatiquement des données brutes de conversations, en extrayant des indicateurs clés (questions, sentiments, hésitations, répétitions), calcule des scores par session, et produit un résumé exploitable pour analyser la qualité ou difficulté des échanges entre utilisateur et chatbot.
+** la différence entre les deux fichiers CSV :
+ 1. comprehension_scores.csv
+Contient les scores liés à la compréhension calculés uniquement à partir des questions posées par les utilisateurs.
+
+C’est un tableau résumé par session qui donne :
+
+Le nombre total de questions posées (total_questions).
+
+Le nombre de questions répétées (repeated_questions).
+
+Le taux de répétition (repetition_rate).
+
+Le score de compréhension associé (comprehension_score), basé sur ce taux de répétition.
+
+Ce fichier est utile pour comprendre à quel point les utilisateurs comprennent les réponses du chatbot, en regardant combien ils posent de questions répétées.
+
+2. features_sessions.csv
+Contient une agrégation plus complète des indicateurs par session, qui inclut :
+
+Le score de sentiment moyen des messages utilisateur.
+
+Le délai moyen entre messages.
+
+Le nombre total d’échanges (messages).
+
+Le taux moyen d’hésitation.
+
+Le nombre total de questions.
+
+La longueur moyenne des messages utilisateur.
+
+Le score moyen de compréhension (fusionné depuis le fichier précédent).
+
+Une étiquette de tonalité globale (positif, neutre, négatif).
+
+Une indication si la session est considérée comme difficile (session_difficile).
+
+Ce fichier donne donc un profil global et riche de chaque session, combinant plusieurs aspects comportementaux et linguistiques.
+
 
