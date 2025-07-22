@@ -147,6 +147,7 @@ Affiche un aperçu des résultats.
 
 En résumé
 Le script traite automatiquement des données brutes de conversations, en extrayant des indicateurs clés (questions, sentiments, hésitations, répétitions), calcule des scores par session, et produit un résumé exploitable pour analyser la qualité ou difficulté des échanges entre utilisateur et chatbot.
+
 ** la différence entre les deux fichiers CSV :
  1. comprehension_scores.csv
 Contient les scores liés à la compréhension calculés uniquement à partir des questions posées par les utilisateurs.
