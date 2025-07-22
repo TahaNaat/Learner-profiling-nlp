@@ -1,4 +1,4 @@
-Explication détaillée par étapes de fichier main.py dans chatbot-nlp-anayzer:
+Explication détaillée de fichier main.py dans chatbot-nlp-anayzer:
 1. Chargement des données JSON (load_conversations)
 Parcourt un dossier contenant plusieurs fichiers JSON (chacun représentant une session de conversation).
 
