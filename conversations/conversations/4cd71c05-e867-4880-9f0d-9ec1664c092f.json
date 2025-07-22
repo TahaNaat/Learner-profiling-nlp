@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.961549",
+    "user_input": "6) Considérons le tableau trié suivant : Tab = {1, 4, 6, 7, 9, 10, 14}; \nNous voulons rechercher la valeur 9 en utilisant le principe de la recherche \nséquentielle. Déterminer le nombre de comparaisons effectuées ainsi que les éléments \nexaminés.",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.964551",
+    "user_input": "reponse: B",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

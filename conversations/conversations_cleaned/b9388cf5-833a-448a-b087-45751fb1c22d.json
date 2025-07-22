@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.049545",
+    "user_input": "6 quelle est lerreur du programme suivant?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.052548",
+    "user_input": "reponse b",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

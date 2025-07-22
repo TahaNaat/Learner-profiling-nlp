@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.204546",
+    "user_input": "4) Que se passe-t-il après un return ?",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.206544",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

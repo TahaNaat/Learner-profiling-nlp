@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-06-25T12:39:54.924995",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T12:40:17.887848",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n1) Qu'est-ce qu'une bibliothèque ?\n\nOptions:\nA)  Un fichier source déjà écrit contenant des fonctions toutes prêtes\nB) Un fichier permettant d'afficher du texte à l'écran\nC) Un fichier contenant mon programme\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-25T12:40:41.238656",
+    "user_input": "reponse: A",
+    "bot_response": "**Validation**\n\n✅ Correct ! L'étudiant a donné la bonne réponse : A. La bonne réponse est bien \"A\", car une bibliothèque est effectivement un espace où on conserve et accède à des livres et d'autres documents.\n\n**Explication claire de la bonne réponse**\n\nUne bibliothèque est un espace physique ou virtuel où les livres, des documents et des ressources numériques sont conservés et accessibles au public. Les bibliothèques peuvent être dépendantes du gouvernement, d'une organisation ou d'un individu, et offrent une large gamme de services tels que la consultation, le prêt et la conservation des ressources.\n\n**Conseils pour retenir le concept**\n\nPour bien comprendre ce concept, voici quelques conseils :\n\n1. **Répétez-vous** : Répétez régulièrement l'expression \"bibliothèque\" pour renforcer votre mémoire.\n2. **Lisez les descriptions** : Lorsque vous vous trouvez dans une bibliothèque, prenez le temps de lire les descriptions des différentes sections et services proposés.\n3. **Demandez à quelqu'un** : Si vous n'êtes pas sûr d'une définition ou d'un terme lié aux bibliothèques, ne hésitez pas à demander à un ami ou à une personne qui travaille dans une bibliothèque.\n\nEn suivant ces conseils, vous devriez être en mesure de retenir ce concept avec succès !\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  },
+  {
+    "timestamp": "2025-06-25T12:42:12.916758",
+    "user_input": "chnager de chapitre",
+    "bot_response": "📝 Question:\n\n4) Pour pouvoir utiliser la fonction de Sortie standard printf(), il est indispensable :\n\nOptions:\nA) d'inclure la bibliothèque standard : stdio.h\nB) de déclarer des variables de types double\nC) d'inclure la bibliothèque standard : math.h\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-25T12:42:27.784009",
+    "user_input": "changer de chapitre",
+    "bot_response": "Vous avez choisi de changer de chapitre.\nVeuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  }
+]

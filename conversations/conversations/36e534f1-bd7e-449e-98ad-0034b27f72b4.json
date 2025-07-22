@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.794548",
+    "user_input": "14) Lequel des éléments suivants est syntaxiquement correct et vrai pour les valeurs \nsuivantes: int x=0, y=1, z=2;  ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.796546",
+    "user_input": "reponse: C",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

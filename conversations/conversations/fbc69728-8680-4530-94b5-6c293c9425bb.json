@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.117541",
+    "user_input": "3) La longueur d’une chaine de caractère est égale à :",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.125571",
+    "user_input": "reponse: C",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

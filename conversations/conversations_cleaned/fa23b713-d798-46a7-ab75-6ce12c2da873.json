@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.170550",
+    "user_input": "4 pour initialiser les champs dune structure, on doit les séparer par des virgules et les mettre entre",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.172543",
+    "user_input": "reponse a",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

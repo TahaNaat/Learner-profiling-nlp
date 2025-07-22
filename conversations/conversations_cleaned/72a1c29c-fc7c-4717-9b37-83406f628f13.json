@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.195545",
+    "user_input": "2 le retour dune fonction  plusieurs réponses sont possibles ",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.198545",
+    "user_input": "reponse a,b,c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

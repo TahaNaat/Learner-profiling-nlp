@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.907545",
+    "user_input": "12) Soit la déclaration : char tab[1][7]= {{'B','O','N','J','O','U','R'}};",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.911548",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

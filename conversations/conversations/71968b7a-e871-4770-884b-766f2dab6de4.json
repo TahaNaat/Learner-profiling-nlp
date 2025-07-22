@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.345829",
+    "user_input": "13) Soit P un pointeur qui pointe sur un tableau A :\nint A[] = {12, 23, 34, 45, 56, 67, 78, 89, 90}; \nSoit les déclarations ssuivantes : \nint *P; \nP = A; \nQuelle valeur correspond à : *(P+*(P+8)-A[7]) ?",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.347829",
+    "user_input": "reponse: C",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

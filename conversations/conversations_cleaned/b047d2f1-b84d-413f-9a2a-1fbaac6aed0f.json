@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.174546",
+    "user_input": "5 cette initialisation est fausse parce que",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.176545",
+    "user_input": "reponse c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

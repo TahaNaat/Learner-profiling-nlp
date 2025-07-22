@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.200543",
+    "user_input": "3 lesquelles de ces déclarations de fonctions sont correctes si elles sont censées calculer  x  élevé à la puissance  n  entière ? plusieurs réponses sont possibles",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.202545",
+    "user_input": "reponse a,b,c,d",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

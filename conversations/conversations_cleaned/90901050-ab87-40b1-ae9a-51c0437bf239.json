@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.988548",
+    "user_input": "10 quelle est la sortie du programme c suivant ?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.991547",
+    "user_input": "reponse c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

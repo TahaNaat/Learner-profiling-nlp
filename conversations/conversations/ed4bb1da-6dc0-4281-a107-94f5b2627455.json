@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-25T01:05:28.046640",
+    "user_input": "bonjour",
+    "bot_response": "Bonjour! Je suis votre assistant pédagogique. Je peux vous aider avec:\n1. Des questions sur la programmation C (posez votre question)\n2. Des quiz d'apprentissage (tapez 'quiz')\nQue souhaitez-vous faire?"
+  },
+  {
+    "timestamp": "2025-05-25T01:06:10.826988",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n10) Afin de comparer deux chaines de caractère nous utilisons la fonction :\n\nOptions:\na) Strcmp\nb) Strcmpr\nc) strcomp\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

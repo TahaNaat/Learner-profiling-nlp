@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-24T21:44:32.340552",
+    "user_input": "bonjour",
+    "bot_response": "bonjour! je suis votre assistant pédagogique. je peux vous aider avec 1. des questions sur la programmation c posez votre question 2. des quiz dapprentissage tapez quiz que souhaitezvous faire?"
+  },
+  {
+    "timestamp": "2025-06-24T21:45:13.699801",
+    "user_input": "quiz",
+    "bot_response": " question 11 quel est le résultat du programme suivant ? code include stdio.h void main  int num2 switchnum  case 1 num  num  5 break case 2 case 4 num  num  2 break case 1 num  0 break default num  1  printfthe result is dn, num  python include stdio.h void main  int num2 switchnum  case 1 num  num  5 break case 2 case 4 num  num  2 break case 1 num  0 break default num  1  printfthe result is dn, num   options a the result is 1 b the result is 0 c error d the result is  4 pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-24T21:45:46.581289",
+    "user_input": "reponse a",
+    "bot_response": "bonjour ! je vois que tu as essayé de résoudre un problème dalgorithmique avec moi ! tout dabord, félicitations pour avoir pris le temps de timpliquer dans ce exercice ! cest vraiment apprécié. maintenant, je vais analyser ta réponse. il semble que tu aies choisi la réponse a, mais malheureusement, cest incorrect. donc, questce qui sest passé ? pourquoi astu choisi la réponse a ? attends une minute, puis réponds en fonction de la réponse de létudiant pour continuer le quiz, tapez quiz. pour sortir, posez une question."
+  }
+]

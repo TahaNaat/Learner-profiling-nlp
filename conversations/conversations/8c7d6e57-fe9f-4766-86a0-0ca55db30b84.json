@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.242836",
+    "user_input": "11) Dans un programme, x est définie globalement. Dans un bloc (fonction) de ce même \nprogramme, x est définie localement. Lorsqu'on se trouve dans ce dernier bloc, \nquelle variable prédomine ?",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.244835",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

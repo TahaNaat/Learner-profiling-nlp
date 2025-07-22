@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-06-01T15:14:46.207373",
+    "user_input": "Bonjour",
+    "bot_response": "Bonjour! Je suis votre assistant pédagogique. Je peux vous aider avec:\n1. Des questions sur la programmation C (posez votre question)\n2. Des quiz d'apprentissage (tapez 'quiz')\nQue souhaitez-vous faire?"
+  },
+  {
+    "timestamp": "2025-06-01T15:16:08.501452",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n2) Soit la déclaration suivante : int t_entier[10] ; \nCette déclaration permet de :\n\nOptions:\nA) Déclarer un tableau de 9 entiers.\nB) Déclarer un tableau de 10 entiers.\nC) Déclarer un tableau bidimensionnel de 10 colonnes.\nD) Déclarer un tableau bidimensionnel de 10 lignes.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T15:19:16.035908",
+    "user_input": "reponse: A",
+    "bot_response": "Bonjour et merci de m'avoir posé ta question !\n\nJe vois que tu as répondu A, mais malheureusement, c'est pas correct. Ne t'inquiète pas, tout le monde a besoin d'aide au début !\n\nLaisse-moi te dire pourquoi la bonne réponse est B. La déclaration `int t_entier[10] ;` permet de créer un tableau de 10 entiers. En effet, dans la programmation, chaque élément du tableau prend une valeur spécifique, et dans ce cas-là, les valeurs sont des entiers de type `int`.\n\nLorsque tu écris `t_entier[10]`, tu définis une variable nommée `t_entier` qui pointe vers le premier élément du tableau. Le nombre 10 après le tableau indique combien d'éléments il contient.\n\nPar exemple, si tu étais à la position 0 du tableau, tu aurais l'entier `t_entier[0]`. Et si tu vas jusqu'à la position 9, tu pourrais avoir les entiers de 0 à 9, selon le nombre d'éléments que tu as défini.\n\nDonc, en résumé, la bonne réponse est B. Tu es prêt à continuer et essayer une nouvelle question ?\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  },
+  {
+    "timestamp": "2025-06-01T15:40:49.724948",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n13) Que sera le résultat du programme C suivant ?\n\nCode:\n#include<stdio.h> \n#include<string.h> \nint main() \n{ \nchar p[] = \"%d\\n\"; \np[1] = 'c'; \nprintf(p, 65); \nreturn 0;}\n\n```python\n#include<stdio.h> \n#include<string.h> \nint main() \n{ \nchar p[] = \"%d\\n\"; \np[1] = 'c'; \nprintf(p, 65); \nreturn 0;}\n```\n\nOptions:\nA) A\nB) b\nC) d\nD) 65\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T15:41:26.659852",
+    "user_input": "reponse: A",
+    "bot_response": "Cher étudiant,\n\nMerci de me faire part de ta réponse ! Je vois que tu as donné la bonne réponse, A.\n\nJe vais te dire pourquoi c'est correct. L'expression `%d\\n` est utilisée pour imprimer un nombre entier suivi d'un saut à la ligne (`\\n`). Cependant, dans ton code, tu as remplacé le 1er caractère du format de chaîne par 'c'. Cela change le comportement de l'expression.\n\nLorsque tu appelles `printf(p, 65)`, le nombre 65 est converti en caractère à l'aide de la fonction `printf`. Le résultat est donc un caractère avec le code ASCII 65, qui correspond au caractère 'E'. Cependant, comme 'c' est dans le format de chaîne, la conversion du nombre à un caractère ne fonctionne pas correctement.\n\nDonc, même si tu as donné la bonne réponse A, c'est parce que l'expression `%d\\n` s'est comportée différemment de ce que tu attendais. Mais ne t'inquiète pas, cela te donne une occasion de mieux comprendre comment les formats de chaîne fonctionnent !\n\nJe suis impressionné par ta persévérance et ton désir d'apprendre. Tu es sur la bonne voie ! Continue à pratiquer et à demander des explications si tu as besoin.\n\nN'hésite pas à me faire part de tes questions ou de tes doutes. Je serai toujours là pour t'aider !\n\nBonne chance avec ta programmation, et continue à apprendre !\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  }
+]

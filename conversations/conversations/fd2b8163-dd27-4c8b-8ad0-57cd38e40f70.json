@@ -1,0 +1,7 @@
+[
+  {
+    "timestamp": "2025-06-25T11:34:43.404849",
+    "user_input": "bonjour",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  }
+]

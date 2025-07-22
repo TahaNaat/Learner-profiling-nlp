@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.143543",
+    "user_input": "7 la fonction  strlen  permet de calculer la longueur dune chaine ",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.146545",
+    "user_input": "reponse b",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

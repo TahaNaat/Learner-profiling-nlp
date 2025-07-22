@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.708546",
+    "user_input": "13 quel est le problème lors de la déclaration de la variable suivante?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.710546",
+    "user_input": "reponse d",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

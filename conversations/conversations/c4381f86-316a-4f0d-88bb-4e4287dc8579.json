@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-18T11:12:15.131805",
+    "user_input": "bonjour",
+    "bot_response": "Bonjour! Je suis votre assistant pédagogique. Je peux vous aider avec:\n1. Des questions sur la programmation C (posez votre question)\n2. Des quiz d'apprentissage (tapez 'quiz')\nQue souhaitez-vous faire?"
+  },
+  {
+    "timestamp": "2025-06-18T11:12:17.051294",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n5) Soit la déclaration suivante : int tab_entiers[10] ;\nChoisir la bonne réponse pour afficher le 10ème élément de ce tableau (on suppose que \nle tableau a été initialisé) :\n\nOptions:\nA) printf(\"%d\",tab_entiers[10]);\nB) scanf(\"%d\",&tab_entiers[10]);\nC) printf(\"%d\",tab_entiers[9]);\nD) scanf(\"%d\",&tab_entiers[9]);\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

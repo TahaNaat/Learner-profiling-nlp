@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.937552",
+    "user_input": "2 quel type de recherche peuton mener sur le tableau suivant 15, 48, 6 , 78, 15,0 ?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.940545",
+    "user_input": "reponse b",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

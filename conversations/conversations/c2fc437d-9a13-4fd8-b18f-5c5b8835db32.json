@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-25T13:02:03.095990",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T13:02:08.569107",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n12) Quelle est la valeur de « y » dans ce code?\n\nCode:\n#include <stdio.h> \nB- void main() \nC- { \nD- int y = 5 * 9 / 3 + 9; \nE- }\n\n```python\n#include <stdio.h> \nB- void main() \nC- { \nD- int y = 5 * 9 / 3 + 9; \nE- }\n```\n\nOptions:\nA) 24\nB) 3\nC) 2.68\nD) Dépend du compilateur\nE) }\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-25T13:02:39.230625",
+    "user_input": "reponse: A",
+    "bot_response": "**Validation**\n\n ✅ Correct\n\nLa valeur de `y` est calculée comme suit :\n\n*   La multiplication des deux nombres : `5 * 9 = 45`\n*   La division du résultat par 3 : `45 / 3 = 15`\n*   L'ajout du troisième nombre : `15 + 9 = 24`\n\nLa valeur de `y` est donc bien `24`.\n\n**Explication claire de la bonne réponse**\n\nIl faut vérifier soigneusement les étapes d'arithmétique pour calculer la valeur de `y`. Les nombres sont multipliés, divisés et ajoutés en un ordre spécifique. Il faut également prendre en compte l'ordre des opérations (PEMDAS), qui stipule que les opérations entre parenthèses doivent être effectuées avant les opérations de multiplication et division, et après les opérations d'addition et de soustraction.\n\n**Conseils pour retenir le concept**\n\nPour retenir ce concept, voici quelques conseils :\n\n*   Utilisez toujours l'ordre des opérations (PEMDAS) lors de vos calculs.\n*   Vérifiez soigneusement chaque étape d'arithmétique pour vous assurer que les calculs sont corrects.\n*   Pratiquez régulièrement et essayez de résoudre des problèmes similaires pour renforcer votre compréhension.\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  }
+]

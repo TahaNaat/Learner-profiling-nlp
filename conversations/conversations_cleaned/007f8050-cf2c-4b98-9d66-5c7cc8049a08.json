@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.863544",
+    "user_input": "3 quel est le résultat dexécution de ce programme ?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.865543",
+    "user_input": "reponse c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

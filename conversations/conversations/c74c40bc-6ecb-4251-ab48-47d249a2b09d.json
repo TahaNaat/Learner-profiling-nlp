@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-07-07T11:23:03.617285",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T11:23:16.247167",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T11:23:29.779181",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n11) Lequel des énoncés suivants est vrai pour les noms de variables en C?\n\nOptions:\nA) Ils peuvent contenir des caractères alphanumériques ainsi que des caractères spéciaux \nB) Ce n’est pas une erreur de déclarer une variable comme l’un des mots clés (commegoto, static) \nC) Les noms de variables ne peuvent pas commencer par un chiffre\nD) La variable peut être de n’importe quelle longueur\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-07-07T11:27:55.730304",
+    "user_input": "reponse: A",
+    "bot_response": "**Validation**\n\n❌Incorrect\n\n**Explication**\n\nDans C, les noms de variables ne peuvent pas contenir certains caractères spécifiques qui sont réservés ou utilisés par les directives et les instructions du langage. Parmi ceux-ci, on trouve les caractères :\n\n* `_` (underscore)\n* `@`, `%`, `#`, `$`, `,` (comma), etc.\n\nPar conséquent, les énoncés suivants ne sont pas tous vrai :\n\n* `a variable name cannot contain an underscore `_`\n* `@` symbol is not allowed in a variable name\n* `$` symbol is not allowed in a variable name\n\nMais le langage C permet également de utiliser certaines préfixes et suffixes spécifiques pour les variables, comme par exemple :\n\n* `_Global` ou `_Local` (pour les variables globales ou locales)\n* `__builtin_` ou `_CRTDEF_` (pour les macros ou les fonctions)\n\nC'est pourquoi la bonne réponse est `{C}`, car le langage C permet les noms de variable avec certains caractères spécifiques.\n\n**Conseils pour retenir le concept**\n\nPour retenir ce concept, voici quelques conseils :\n\n* Lisez attentivement les instructions et les directives du langage C.\n* Familiarisez-vous avec les caractères réservés ou utilisés par les directives et les instructions.\n* Utilisez des noms de variable clairs et concis pour éviter les erreurs de syntaxe.\n\n📊 Score actuel: 0/2\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  },
+  {
+    "timestamp": "2025-07-07T11:29:10.642599",
+    "user_input": "suiz",
+    "bot_response": "📝 Question:\n\n10) Quelle déclaration est fausse?\n\nOptions:\nA) Une variable se réfère à un emplacement dans la mémoire\nB) Une variable doit être déclarée et définie au même temps\nC) Une seule variable ne peut pas être définie avec deux types différents dans la même portée  \nD) Une variable définie une fois peut être définie à nouveau avec une portée différente \n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

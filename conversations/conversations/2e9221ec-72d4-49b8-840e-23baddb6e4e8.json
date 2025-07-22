@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.017544",
+    "user_input": "15) Soit le pseudo algorithme suivant :\na- Parcourir le tableau du début à la fin  \nb- A l'étape i, on considère que les éléments de 0 à i − 1 du tableau sont déjà triés. \nC- On cherche à placer le i-ème élément à sa bonne place parmi les éléments \nprécédents du tableau, en le faisant «redescendre» jusqu'à atteindre un élément qui \nlui est inférieur. \nLe principe de cet algorithme est celui du :",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.020549",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

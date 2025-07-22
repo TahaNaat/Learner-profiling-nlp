@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.874543",
+    "user_input": "5 soit la déclaration suivante  int tab_entiers10  choisir la bonne réponse pour afficher le 10ème élément de ce tableau on suppose que le tableau a été initialisé ",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.877542",
+    "user_input": "reponse c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

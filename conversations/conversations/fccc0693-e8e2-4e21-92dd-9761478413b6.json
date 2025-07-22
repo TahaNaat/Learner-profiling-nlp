@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.033546",
+    "user_input": "3) Quel est le format utilisé pour afficher une chaîne de caractères ou un tableau de\ncaractères dans la fonction  printf ou scanf ? ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.035544",
+    "user_input": "reponse: C",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

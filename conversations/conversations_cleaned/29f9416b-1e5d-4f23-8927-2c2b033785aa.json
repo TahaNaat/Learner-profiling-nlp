@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.693546",
+    "user_input": "10 quelle déclaration est fausse?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.695546",
+    "user_input": "reponse b",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-25T11:25:02.013140",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:25:13.168211",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 16 quelle comparaison est correcte par rapport à la taille des types de données? options a char  int  float b int  char  float c char  int  double d double  char  int pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-25T11:25:33.490103",
+    "user_input": "reponse a",
+    "bot_response": "feedback 1. validation  incorrect la bonne réponse nest pas a, mais c. 2. explication la comparaison correcte par rapport à la taille des types de données est c. les nombres entiers c sont généralement les plus grands en termes de taille car ils peuvent contenir une grande quantité de chiffres. en revanche, les chaînes de caractères a et les nombres en décalade b sont souvent plus courts en raison de leur structure de données. 3. conseils pour retenir le concept de la taille des types de données   nombres entiers  les nombres entiers sont généralement les plus grands en termes de taille.  chaînes de caractères  les chaînes de caractères sont souvent plus courtes que les nombres entiers.  nombres en décalade  les nombres en décalade sont souvent plus courts encore que les nombres entiers.  score actuel 01 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  }
+]

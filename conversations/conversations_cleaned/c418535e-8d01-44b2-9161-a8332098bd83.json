@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.743537",
+    "user_input": "4 quelle expression est vraie sachant que p1 et q0?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.746545",
+    "user_input": "reponse b",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

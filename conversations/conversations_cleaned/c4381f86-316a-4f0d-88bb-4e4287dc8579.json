@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-18T11:12:15.131805",
+    "user_input": "bonjour",
+    "bot_response": "bonjour! je suis votre assistant pédagogique. je peux vous aider avec 1. des questions sur la programmation c posez votre question 2. des quiz dapprentissage tapez quiz que souhaitezvous faire?"
+  },
+  {
+    "timestamp": "2025-06-18T11:12:17.051294",
+    "user_input": "quiz",
+    "bot_response": " question 5 soit la déclaration suivante  int tab_entiers10  choisir la bonne réponse pour afficher le 10ème élément de ce tableau on suppose que le tableau a été initialisé  options a printfd,tab_entiers10 b scanfd,tab_entiers10 c printfd,tab_entiers9 d scanfd,tab_entiers9 pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

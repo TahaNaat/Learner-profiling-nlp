@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-01T19:53:11.300818",
+    "user_input": "bonjour",
+    "bot_response": "bonjour! je suis votre assistant pédagogique. je peux vous aider avec 1. des questions sur la programmation c posez votre question 2. des quiz dapprentissage tapez quiz que souhaitezvous faire?"
+  },
+  {
+    "timestamp": "2025-06-01T19:53:17.782009",
+    "user_input": "quiz",
+    "bot_response": " question 11 quel est le résultat du programme suivant ? code include stdio.h void main  int num2 switchnum  case 1 num  num  5 break case 2 case 4 num  num  2 break case 1 num  0 break default num  1  printfthe result is dn, num  python include stdio.h void main  int num2 switchnum  case 1 num  num  5 break case 2 case 4 num  num  2 break case 1 num  0 break default num  1  printfthe result is dn, num   options a the result is 1 b the result is 0 c error d the result is  4 pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

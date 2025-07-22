@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.345829",
+    "user_input": "13 soit p un pointeur qui pointe sur un tableau a  int a  12, 23, 34, 45, 56, 67, 78, 89, 90 soit les déclarations ssuivantes  int p p  a quelle valeur correspond à  pp8a7 ?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.347829",
+    "user_input": "reponse c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

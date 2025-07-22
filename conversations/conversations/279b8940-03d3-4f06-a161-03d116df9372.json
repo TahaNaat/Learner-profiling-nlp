@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.943548",
+    "user_input": "4) Lors d’une recherche séquentielle, combien d'itérations sont effectuées pour la recherche \nde la valeur 20 dans ce tableau {15, 48, 6, 78, 15, 0} ? ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.946549",
+    "user_input": "reponse: D",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

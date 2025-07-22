@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-01T20:31:59.027960",
+    "user_input": "hello",
+    "bot_response": "Bonjour! Je suis votre assistant pédagogique. Je peux vous aider avec:\n1. Des questions sur la programmation C (posez votre question)\n2. Des quiz d'apprentissage (tapez 'quiz')\nQue souhaitez-vous faire?"
+  },
+  {
+    "timestamp": "2025-06-01T20:32:02.583088",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n7) La fonction « strlen » permet de Calculer la longueur d’une chaine :\n\nOptions:\na) En comptabilisant le caractère ‘\\0’.\nb) Sans comptabiliser le caractère ‘\\0’.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:32:36.600869",
+    "user_input": "reponse: A",
+    "bot_response": "Cher étudiant,\n\nMerci de t'être intéressé par la question sur la fonction `strlen` ! J'apprécie ta confiance en moi pour obtenir des clarifications.\n\nJe vais analyses ta réponse avec bienveillance. Ta réponse est : A, mais il faut nous en dire plus... Et c'est exactement ce que je vais essayer de faire !\n\nLa bonne réponse, et celle qui correspond à la fonction `strlen`, est en fait B. Mais pourquoi ? Eh bien, la fonction `strlen` permet de calculer la longueur d'une chaîne de caractères, c'est-à-dire le nombre d'éléments de la chaîne.\n\nAlors, comment peut-on dire que ta réponse A est incorrecte alors qu'elle correspond au choix B ? Eh bien, c'est parce que A n'est pas une fonction, mais plutôt un nombre. La fonction `strlen` prend une chaîne de caractères en entrée et renvoie le résultat comme un entier.\n\nDonc, pour répondre correctement à la question, il faut choisir le choix B qui correspond à la bonne fonction. Et maintenant, je sais que tu as compris un peu mieux comment ça marche !\n\nTu fais un excellent progrès, continue ainsi ! La difficulté est dans l'apprentissage et les expériences, mais aussi pour demander de l'aide quand on en a besoin. Tu es en droit de demander à moi de clarifier tout ce qui t'est obscur.\n\nEnfin, ne te décourage pas si tu commets des erreurs. C'est là que l'apprentissage est le plus important !\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  }
+]

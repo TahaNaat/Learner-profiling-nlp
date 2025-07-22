@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.820539",
+    "user_input": "6) Transformer la boucle : for ( i=10 ; i>-25 ; i=i-5 )\n                                                {  \n                                                       printf(\"passage\");  \n                                                  } \nen une boucle While : ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.822543",
+    "user_input": "reponse: D",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

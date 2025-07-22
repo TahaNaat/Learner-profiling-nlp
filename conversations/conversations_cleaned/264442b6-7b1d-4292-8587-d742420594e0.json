@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-06-25T12:39:54.924995",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T12:40:17.887848",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 1 questce quune bibliothèque ? options a un fichier source déjà écrit contenant des fonctions toutes prêtes b un fichier permettant dafficher du texte à lécran c un fichier contenant mon programme pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-25T12:40:41.238656",
+    "user_input": "reponse a",
+    "bot_response": "validation  correct ! létudiant a donné la bonne réponse  a. la bonne réponse est bien a, car une bibliothèque est effectivement un espace où on conserve et accède à des livres et dautres documents. explication claire de la bonne réponse une bibliothèque est un espace physique ou virtuel où les livres, des documents et des ressources numériques sont conservés et accessibles au public. les bibliothèques peuvent être dépendantes du gouvernement, dune organisation ou dun individu, et offrent une large gamme de services tels que la consultation, le prêt et la conservation des ressources. conseils pour retenir le concept pour bien comprendre ce concept, voici quelques conseils  1. répétezvous  répétez régulièrement lexpression bibliothèque pour renforcer votre mémoire. 2. lisez les descriptions  lorsque vous vous trouvez dans une bibliothèque, prenez le temps de lire les descriptions des différentes sections et services proposés. 3. demandez à quelquun  si vous nêtes pas sûr dune définition ou dun terme lié aux bibliothèques, ne hésitez pas à demander à un ami ou à une personne qui travaille dans une bibliothèque. en suivant ces conseils, vous devriez être en mesure de retenir ce concept avec succès !  score actuel 01 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  },
+  {
+    "timestamp": "2025-06-25T12:42:12.916758",
+    "user_input": "chnager de chapitre",
+    "bot_response": " question 4 pour pouvoir utiliser la fonction de sortie standard printf, il est indispensable  options a dinclure la bibliothèque standard  stdio.h b de déclarer des variables de types double c dinclure la bibliothèque standard  math.h pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-25T12:42:27.784009",
+    "user_input": "changer de chapitre",
+    "bot_response": "vous avez choisi de changer de chapitre. veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  }
+]

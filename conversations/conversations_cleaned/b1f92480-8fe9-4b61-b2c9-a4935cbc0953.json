@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-25T12:24:45.080837",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T12:24:57.966563",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 13 quel est le problème lors de la déclaration de la variable suivante? code float 4chambrehallcuisine? python float 4chambrehallcuisine?  options a le nom de la variable commence par un entier b le caractère spécial  c le caractère spécial ? d tout les réponses sont vrais pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-25T12:25:23.709748",
+    "user_input": "reponse a",
+    "bot_response": "réponse au problème 13 1. validation  la réponse donnée par létudiant est incorrecte. la variable déclarée 4chambrehallcuisine? nest pas une évaluation de la validité dune condition ou dun test, mais plutôt une déclaration de variable qui stockera un nombre entier. 2. explication claire de la bonne réponse la variable 4chambrehallcuisine? est une évaluation de la validité dune condition. en c, le question mark ? est utilisé pour indiquer que la valeur de lexpression suivante doit être vérifiée. dans ce cas, la variable 4chambrehallcuisine contiendra une valeur entière qui sera vérifiée par le conditionnel if. 3. conseils pour retenir le concept pour comprendre correctement les évaluations avec question mark en c, rappérez que   le question mark ? est utilisé pour indiquer la nécessité dune évaluation.  lexpression suivante doit être une valeur valide ou un type de données pouvant être vérifiée comme int, bool etc..  en fonction de la valeur de lexpression, le conditionnel sera exécuté si la valeur est vérifiée. exemple  cpp if4chambrehallcuisine?  5 stdcout  la valeur est égale à 5  stdendl   dans ce cas, la variable 4chambrehallcuisine contiendra une valeur entière qui sera vérifiée par le conditionnel.  score actuel 01 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  },
+  {
+    "timestamp": "2025-06-25T12:25:44.667815",
+    "user_input": "changer de chapitre",
+    "bot_response": "vous avez choisi de changer de chapitre. veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  }
+]

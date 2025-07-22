@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-25T11:25:02.013140",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:25:13.168211",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n16) Quelle comparaison est correcte par rapport à la taille des types de données?\n\nOptions:\nA) char > int > float\nB) int > char > float\nC) char < int < double\nD) double > char > int\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-25T11:25:33.490103",
+    "user_input": "reponse: A",
+    "bot_response": "**Feedback**\n\n**1. Validation**\n ❌ Incorrect\n\nLa bonne réponse n'est pas A, mais C.\n\n**2. Explication**\n La comparaison correcte par rapport à la taille des types de données est {C}. Les nombres entiers (C) sont généralement les plus grands en termes de taille car ils peuvent contenir une grande quantité de chiffres. En revanche, les chaînes de caractères (A) et les nombres en décalade (B) sont souvent plus courts en raison de leur structure de données.\n\n**3. Conseils**\n Pour retenir le concept de la taille des types de données :\n - Nombres entiers : les nombres entiers sont généralement les plus grands en termes de taille.\n - Chaînes de caractères : les chaînes de caractères sont souvent plus courtes que les nombres entiers.\n - Nombres en décalade : les nombres en décalade sont souvent plus courts encore que les nombres entiers.\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  }
+]

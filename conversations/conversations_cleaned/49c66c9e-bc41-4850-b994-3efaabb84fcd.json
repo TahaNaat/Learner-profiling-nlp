@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-06-01T20:22:38.257155",
+    "user_input": "quiz",
+    "bot_response": " question 5 pour afficher une chaine de caractère sur lécran nous utilisant la fonction  options a printf b scanf c gets pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:40.554785",
+    "user_input": "quiz",
+    "bot_response": " question 4 comment saisir une chaîne de caractères déclarée par char chaine100 ? options a scanfc,chaine b scanfs,chaine c scanfc,chaine d scanfs,chaine pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:43.295888",
+    "user_input": "quiz",
+    "bot_response": " question 2 lequel des éléments suivants est une chaîne de caractère? options a abcd b abcd c abcd d abcd pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:45.908261",
+    "user_input": "quiz",
+    "bot_response": " question 8 la fonction  strcpy  permet de  options a copier la première chaine dans la deuxième. b copier la deuxième chaine dans la première. pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:48.043618",
+    "user_input": "quiz",
+    "bot_response": " question 9 la fonction  strncat   options a permet dajouter la première chaine à la fin de la deuxième. b permet dajouter la deuxième chaine à la fin de la première en se limitant à n caractères c permet dajouter la deuxième chaine à la fin de la première. pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:50.453589",
+    "user_input": "quiz",
+    "bot_response": " question 11 dans un programme, x est définie globalement. dans un bloc fonction de ce même programme, x est définie localement. lorsquon se trouve dans ce dernier bloc, quelle variable prédomine ? options a la variable x locale. b la variable x globale. pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:52.690406",
+    "user_input": "quiz",
+    "bot_response": " question 8 combien de fois sexécute le corps de la boucle suivante  code for i1  i10  i   if i2 printflan python for i1  i10  i   if i2 printflan  options a 0 fois b 5 fois c 4 fois d 9 fois pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

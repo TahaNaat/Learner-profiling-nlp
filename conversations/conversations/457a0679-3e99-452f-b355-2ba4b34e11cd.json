@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.253830",
+    "user_input": "13) On considère l'appel suivant : echange(A, B) ;Pour qu'il y ait inversion des valeurs\ndes variables A et B dans le programme principal, on utilise :  ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.256829",
+    "user_input": "reponse: B",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

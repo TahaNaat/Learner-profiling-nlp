@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-25T11:32:47.972934",
+    "user_input": "bonjour",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:32:59.508773",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 11 lequel des énoncés suivants est vrai pour les noms de variables en c? options a ils peuvent contenir des caractères alphanumériques ainsi que des caractères spéciaux b ce nest pas une erreur de déclarer une variable comme lun des mots clés commegoto, static c les noms de variables ne peuvent pas commencer par un chiffre d la variable peut être de nimporte quelle longueur pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

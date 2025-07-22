@@ -1,0 +1,7 @@
+[
+  {
+    "timestamp": "2025-06-01T15:07:01.211884",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n15) Quelle est la taille du type int?\n\nOptions:\nA) 4 Octets\nB) 8 Octets\nC) dépend du système et du compilateur\nD) ne peut être déterminé\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

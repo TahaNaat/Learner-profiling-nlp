@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-25T11:09:22.488142",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:09:43.985862",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n7) Soit l'instruction a=2, 2 est :\n\nOptions:\nA) La valeur de la variable a\nB) Le nom de la variable a\nC) L'adresse dans la RAM de la variable a\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

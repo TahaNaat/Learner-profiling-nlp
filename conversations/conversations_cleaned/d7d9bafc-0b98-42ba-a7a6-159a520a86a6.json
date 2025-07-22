@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.286831",
+    "user_input": "4 quelle valeur possède par défaut un pointeur non initialisé ?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.289837",
+    "user_input": "reponse a",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

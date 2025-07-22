@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.012556",
+    "user_input": "14 le programme c suivant tente de chercher un élément x dans un tableau y en utilisant la recherche dichotomique. ce programme est erroné. sur quelles valeurs de y et x le programme échouetil ?",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.015547",
+    "user_input": "reponse c",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

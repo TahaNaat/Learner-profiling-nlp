@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-25T01:05:28.046640",
+    "user_input": "bonjour",
+    "bot_response": "bonjour! je suis votre assistant pédagogique. je peux vous aider avec 1. des questions sur la programmation c posez votre question 2. des quiz dapprentissage tapez quiz que souhaitezvous faire?"
+  },
+  {
+    "timestamp": "2025-05-25T01:06:10.826988",
+    "user_input": "quiz",
+    "bot_response": " question 10 afin de comparer deux chaines de caractère nous utilisons la fonction  options a strcmp b strcmpr c strcomp pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

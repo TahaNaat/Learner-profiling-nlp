@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-25T10:29:15.950831",
+    "user_input": "bonjour",
+    "bot_response": "bonjour! je suis votre assistant pédagogique. je peux vous aider avec 1. des questions sur la programmation c posez votre question 2. des quiz dapprentissage tapez quiz que souhaitezvous faire?"
+  },
+  {
+    "timestamp": "2025-06-25T10:29:49.262897",
+    "user_input": "c est quoi une bibliotheque en programmation c",
+    "bot_response": "chapitre 5  les chaînes de caractères ii dans ce chapitre, nous allons explorer lun des concepts fondamentaux en programmation c  les chaînes de caractères. définition dune chaîne de caractère en c une chaîne de caractère en c est une séquence déléments de type char ou unsigned char séparés par des caractères de terminaison. les éléments de la chaîne sont stockés dans un tableau de chars, qui peut être directement manipulé à laide de pointeurs. déclaration dune chaîne de caractère en c pour déclarer une chaîne de caractère en c, il suffit de utiliser les motsclés char ou unsigned char suivis du nom de la variable et des accolades  pour indiquer la taille de la chaîne. voici quelques exemples   c  char chaîne1  bonjour  unsigned char chaîne2  123    cas dutilisation les chaînes de caractères sont utilisées dans de nombreuses situations en programmation c, notamment   affichage de texte  les chaînes de caractères peuvent être utilisées pour afficher du texte sur lécran ou dans un fichier.  recherche de mots  les chaînes de caractères peuvent être utilisées pour rechercher des mots dans une chaîne plus longue.  validation dentrées  les chaînes de caractères peuvent être utilisées pour valider les entrées du utilisateur, en vérifiant que la saisie est correcte et contient uniquement des caractères autorisés.  exemple pratique voici un exemple de code qui déclare une chaîne de caractère et lutilise pour afficher le texte bonjour  c include stdio.h int main  char chaîne  bonjour printfs, chaîne return 0   dans cet exemple, nous déclarons une chaîne de caractère chaîne avec la valeur bonjour. nous utilisons ensuite le pointeur chaîne pour afficher le texte sur lécran à laide de la fonction printf. en résumé, les chaînes de caractères sont un élément fondamental en programmation c qui permettent de stocker et de manipuler des séquences déléments de type char. elles sont utilisées dans de nombreuses situations pour afficher du texte, rechercher des mots, valider les entrées du utilisateur, etc."
+  }
+]

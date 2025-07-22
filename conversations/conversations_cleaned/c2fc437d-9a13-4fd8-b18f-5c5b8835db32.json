@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-25T13:02:03.095990",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T13:02:08.569107",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 12 quelle est la valeur de  y  dans ce code? code include stdio.h b void main c  d int y  5  9  3  9 e  python include stdio.h b void main c  d int y  5  9  3  9 e   options a 24 b 3 c 2.68 d dépend du compilateur e  pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-25T13:02:39.230625",
+    "user_input": "reponse a",
+    "bot_response": "validation  correct la valeur de y est calculée comme suit   la multiplication des deux nombres  5  9  45  la division du résultat par 3  45  3  15  lajout du troisième nombre  15  9  24 la valeur de y est donc bien 24. explication claire de la bonne réponse il faut vérifier soigneusement les étapes darithmétique pour calculer la valeur de y. les nombres sont multipliés, divisés et ajoutés en un ordre spécifique. il faut également prendre en compte lordre des opérations pemdas, qui stipule que les opérations entre parenthèses doivent être effectuées avant les opérations de multiplication et division, et après les opérations daddition et de soustraction. conseils pour retenir le concept pour retenir ce concept, voici quelques conseils   utilisez toujours lordre des opérations pemdas lors de vos calculs.  vérifiez soigneusement chaque étape darithmétique pour vous assurer que les calculs sont corrects.  pratiquez régulièrement et essayez de résoudre des problèmes similaires pour renforcer votre compréhension.  score actuel 01 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  }
+]

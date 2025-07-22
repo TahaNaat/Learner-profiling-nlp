@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-01T19:22:55.552777",
+    "user_input": "bonjour",
+    "bot_response": "Bonjour! Je suis votre assistant pédagogique. Je peux vous aider avec:\n1. Des questions sur la programmation C (posez votre question)\n2. Des quiz d'apprentissage (tapez 'quiz')\nQue souhaitez-vous faire?"
+  },
+  {
+    "timestamp": "2025-06-01T19:23:07.644656",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n10) Quelle déclaration est fausse?\n\nOptions:\nA) Une variable se réfère à un emplacement dans la mémoire\nB) Une variable doit être déclarée et définie au même temps\nC) Une seule variable ne peut pas être définie avec deux types différents dans la même portée  \nD) Une variable définie une fois peut être définie à nouveau avec une portée différente \n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T19:23:43.870968",
+    "user_input": "reponse: A",
+    "bot_response": "**Salutations amicales !**\n\nBonjour ! Je vois que tu as posé la question \"Quelle déclaration est fausse ?\" et que tu as sélectionné l'option A comme réponse. Pas de problème, nous allons analyser cela ensemble !\n\n**Analysons ta réponse avec bienveillance...**\n\nJe peux voir que tu as choisi l'option A sans trop de réflexion, ce qui signifie que tu n'avais pas encore pensé à la question. C'est tout à fait normal, car les questions peuvent être un peu difficiles.\n\n**La bonne réponse est... B !**\n\nCependant, je suis désolé d'avoir du mal à trouver l'option A dans ta réponse, car il n'y a pas de selection spécifique mentionnée. Mais ne t'inquiète pas, nous allons continuer !\n\n**Pourquoi la réponse est-elle correcte ?**\n\nLa bonne réponse est en fait B. Cependant, je ne peux pas te dire pour quel motif exactement sans connaître le contenu de l'option B. Si tu veux savoir pourquoi c'est incorrect, nous pouvons discuter cela ensemble !\n\n**Expliquons-le en détail...**\n\nJe pense qu'il est temps d'en apprendre un peu plus ! Nous allons prendre une minute pour discuter des options et comprendre comment faire les bonnes choix. Qu'est-ce que tu penses ?\n\n**Encouragement et motivation !**\n\nNe t'inquiète pas si tu n'as pas toujours la réponse facile. C'est normal, et c'est precisely parce que nous commençons à apprendre ensemble que nous pouvons devenir de meilleurs élèves ! Tu as déjà fait un grand pas en posant la question et en essayant de trouver la bonne réponse.\n\n**Continuons notre aventure de découvertes !**\n\nAlors, qu'est-ce que tu dirais si nous continuons à discuter des options et en apprenons ensemble ? Je suis là pour t'aider et te soutenir tout au long du processus.\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  }
+]

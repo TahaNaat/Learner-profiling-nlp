@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.993549",
+    "user_input": "11) Nous allons trier le tableau suivant par ordre croissant : arr [7] = {1, 4,2,9,3,8,5}.\nÀ quoi ressemble le tableau après un seul passage de l'algorithme de tri à bulles? ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.995544",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

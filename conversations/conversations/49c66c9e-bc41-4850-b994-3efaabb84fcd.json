@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "2025-06-01T20:22:38.257155",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n5) Pour afficher une chaine de caractère sur l’écran nous utilisant la fonction :\n\nOptions:\na) Printf()\nb) Scanf()\nc) Gets()\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:40.554785",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n4) Comment saisir une chaîne de caractères (déclarée par char chaine[100];) ?\n\nOptions:\nA) scanf(\"%c\",chaine);\nB) scanf(\"%s\",chaine);\nC) scanf(\"%c\",&chaine);\nD) scanf(\"%s\",&chaine);\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:43.295888",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n2) Lequel des éléments suivants est une chaîne de caractère?\n\nOptions:\nA) ‘abcd’\nB) “abcd”\nC) Abcd\nD) ‘abcd”\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:45.908261",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n8) La fonction « strcpy » permet de :\n\nOptions:\na) Copier la première chaine dans la deuxième.\nb) Copier la deuxième chaine dans la première.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:48.043618",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n9) La fonction « strncat » :\n\nOptions:\na) Permet d’ajouter la première chaine à la fin de la deuxième.\nb) Permet d’ajouter la deuxième chaine à la fin de la première en se limitant à n caractères \nc) Permet d’ajouter la deuxième chaine à la fin de la première.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:50.453589",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n11) Dans un programme, x est définie globalement. Dans un bloc (fonction) de ce même \nprogramme, x est définie localement. Lorsqu'on se trouve dans ce dernier bloc, \nquelle variable prédomine ?\n\nOptions:\nA) La variable x locale.\nB) La variable x globale.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:22:52.690406",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n8) Combien de fois s’exécute le corps de la boucle suivante :\n\nCode:\nfor (i=1 ; i<10 ; i++)  \n{ \n} \nif (i%2) \nprintf(\"la\\n\");\n\n```python\nfor (i=1 ; i<10 ; i++)  \n{ \n} \nif (i%2) \nprintf(\"la\\n\");\n```\n\nOptions:\nA) 0 fois\nB) 5 fois\nC) 4 fois\nD) 9 fois\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.682539",
+    "user_input": "8) Soit la déclaration et l’initialisation suivante : \nint a = 3, b = 4, c = -2; Quelle est le résultat de cette expression ?  Res = ++a + c;  ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.684541",
+    "user_input": "reponse: C",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

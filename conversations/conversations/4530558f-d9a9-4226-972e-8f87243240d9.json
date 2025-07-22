@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:52.003546",
+    "user_input": "13) Nous allons trier le tableau suivant par ordre croissant :\narr [7] = { 1,4,2,9,3,8,5 }. À quoi ressemble le tableau après un seul passage de \nl'algorithme de tri par sélection? ",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:52.007549",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]

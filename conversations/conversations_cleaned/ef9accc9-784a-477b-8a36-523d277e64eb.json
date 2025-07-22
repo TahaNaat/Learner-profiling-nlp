@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-06-01T20:20:48.882729",
+    "user_input": "quiz",
+    "bot_response": " question 9 en c, pour lire une valeur entière dans la variable a, on peut faire  options b printf  d, a c scanf d, a d scanf d, a pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:20:52.337708",
+    "user_input": "quiz",
+    "bot_response": " question 10 où sont déclarées les variables locales ? options a au début du programme principal. b au début de chaque fonction où elles interviennent. c elles sont passées en paramètres dans la déclaration de la fonction. pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:20:55.494880",
+    "user_input": "quiz",
+    "bot_response": " question 5 dans quel cas linstruction return nest pas obligatoire ? options a quand la fonction ne prend aucun paramètre en entrée b quand la fonction est de type void c quand la fonction doit renvoyer 0 pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:20:58.002678",
+    "user_input": "quiz",
+    "bot_response": " question 6 lopérateur dadresse est utilisé dans la fonction  options a scanf b puts c printf pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:21:00.429960",
+    "user_input": "quiz",
+    "bot_response": " question 7 choisir la bonne réponse ces instructions  int x do  scanfd,x  while x51  x502  options a saisissent un entier compris dans 51,502 b saisissent un entier compris dans 50, 501 c saisissent un entier compris dans 51, 501 pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T20:21:02.966050",
+    "user_input": "quiz",
+    "bot_response": " question 12 que sera le résultat du programme c suivant ? code includestdio.h includestring.h int main  char str120  hello, str220   world printfsn, strcpystr2, strcatstr1, str2 return 0  python includestdio.h includestring.h int main  char str120  hello, str220   world printfsn, strcpystr2, strcatstr1, str2 return 0   options a hello b world c hello world d worldhello pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

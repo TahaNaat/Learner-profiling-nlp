@@ -1,0 +1,7 @@
+[
+  {
+    "timestamp": "2025-06-09T17:07:55.765443",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n15) La fonction scanf permet de :\n\nOptions:\nA) Lire une chaîne de caractères comportant des espaces\nB) Écrire une chaîne de caractère sans retour à la ligne\nC) Lire une chaîne de caractères ne comportant pas d’espaces\nD) Écrire une chaîne de caractères avec un retour à la ligne\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

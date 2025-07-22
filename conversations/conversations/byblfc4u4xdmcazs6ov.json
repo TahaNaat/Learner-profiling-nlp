@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-24T21:44:32.340552",
+    "user_input": "bonjour",
+    "bot_response": "Bonjour! Je suis votre assistant pédagogique. Je peux vous aider avec:\n1. Des questions sur la programmation C (posez votre question)\n2. Des quiz d'apprentissage (tapez 'quiz')\nQue souhaitez-vous faire?"
+  },
+  {
+    "timestamp": "2025-06-24T21:45:13.699801",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n11) Quel est le résultat du programme suivant ?\n\nCode:\n#include <stdio.h> \nvoid main() \n{ \nint num=-2; \nswitch(num) \n{ \ncase 1: \nnum = num + 5; \nbreak; \ncase -2: \ncase 4: \nnum = num * 2; \nbreak; \ncase -1: \nnum = 0; \nbreak; \ndefault: \nnum = -1; \n} \nprintf(\"The result is %d\\n\", num); \n}\n\n```python\n#include <stdio.h> \nvoid main() \n{ \nint num=-2; \nswitch(num) \n{ \ncase 1: \nnum = num + 5; \nbreak; \ncase -2: \ncase 4: \nnum = num * 2; \nbreak; \ncase -1: \nnum = 0; \nbreak; \ndefault: \nnum = -1; \n} \nprintf(\"The result is %d\\n\", num); \n}\n```\n\nOptions:\nA) The result is -1\nB) The result is 0\nC) Error\nD) The result is - 4\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-24T21:45:46.581289",
+    "user_input": "reponse: A",
+    "bot_response": "Bonjour ! Je vois que tu as essayé de résoudre un problème d'algorithmique avec moi !\n\nTout d'abord, félicitations pour avoir pris le temps de t'impliquer dans ce exercice ! C'est vraiment apprécié.\n\nMaintenant, je vais analyser ta réponse. Il semble que tu aies choisi la réponse A, mais malheureusement, c'est incorrect.\n\nDonc, qu'est-ce qui s'est passé ? Pourquoi as-tu choisi la réponse A ?\n\n(Attends une minute, puis réponds en fonction de la réponse de l'étudiant)\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  }
+]

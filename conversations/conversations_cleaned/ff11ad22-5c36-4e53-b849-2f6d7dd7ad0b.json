@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-25T11:37:02.561233",
+    "user_input": "bonjour",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:37:09.095391",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 13 quel est le problème lors de la déclaration de la variable suivante? code float 4chambrehallcuisine? python float 4chambrehallcuisine?  options a le nom de la variable commence par un entier b le caractère spécial  c le caractère spécial ? d tout les réponses sont vrais pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-25T11:37:35.635713",
+    "user_input": "reponse a",
+    "bot_response": "validation   incorrect explication  le problème se trouve dans la déclaration de la variable 4chambrehallcuisine?. la question se pose estce que cela est une erreur ou pas. en fait, cest une bonne pratique en programmation c de déclarer les variables avec un point . au lieu dun trait dinterrogation ?. le trait dinterrogation est utilisé pour indiquer à la compilation quune fonction ou une méthode retourne quelque chose. par exemple, si on veut déclarer une variable qui représente le nombre de chambres dans une maison, il faudrait utiliser  csharp float 4chambre  4  et non  csharp float 4chambrehallcuisine?  4  conseils  1. utilisez le point . pour déclarer des variables les variables devraient être déclares avec un point au lieu dun trait dinterrogation. 2. soyez attentif aux règles de syntaxe prenez le temps de lire et dappliquer les règles de syntaxe de votre langage de programmation pour éviter des erreurs comme cellesci. 3. utilisez des noms de variables clairs et significatifs les noms de variable devraient être clairs et significatifs pour faciliter la compréhension du code.  score actuel 01 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  }
+]

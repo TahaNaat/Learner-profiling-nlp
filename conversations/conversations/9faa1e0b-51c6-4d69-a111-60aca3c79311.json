@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-07-07T10:50:03.260095",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T10:50:09.852826",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n14) L’identifiant ‘%d’ est également utilisé pour _____?\n\nOptions:\nA) char\nB) int\nC) float\nD) Double\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-07-07T10:50:38.225741",
+    "user_input": "reponse: A",
+    "bot_response": "**Validation**\n\n❌ Incorrect\n\nLa réponse incorrecte car 'd' est l'identifiant pour représenter un nombre entier sans décalage, tandis que '%'d est utilisé pour représenter un nombre entier avec décalage.\n\n**Explication claire de la bonne réponse**\n\nLa bonne réponse est {B}. L'identifiant '%b' est également utilisé pour afficher un nombre sous forme binaire (binnaire). Les identifiants '%x', '%X', '%d' et '%f' sont souvent utilisés ensemble dans les programmes informatiques pour spécifier la format de sortie de données, notamment les nombres.\n\n**Conseils pour retenir le concept**\n\n1. Soyez attentif aux différences entre les formats de sortie des données.\n2. Comprenez que les identifiants '%x', '%X', '%d' et '%f' sont souvent utilisés ensemble dans les programmes informatiques.\n3. Pratiquez la compréhension des différents formats de sortie des données pour réussir les examens et les projets de programmation.\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  },
+  {
+    "timestamp": "2025-07-07T10:51:03.974774",
+    "user_input": "changer chapitre",
+    "bot_response": "📝 Question:\n\n15) Quelle est la taille du type int?\n\nOptions:\nA) 4 Octets\nB) 8 Octets\nC) dépend du système et du compilateur\nD) ne peut être déterminé\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-07-07T10:51:14.737296",
+    "user_input": "changer de chapitre",
+    "bot_response": "Vous avez choisi de changer de chapitre.\nVeuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  }
+]

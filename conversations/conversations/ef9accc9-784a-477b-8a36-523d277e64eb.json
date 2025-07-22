@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-06-01T20:20:48.882729",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n9) En C, pour lire une valeur entière dans la variable A, on peut faire :\n\nOptions:\nB) printf ( \"%d\", A);\nC) scanf (\"%d\", &A);\nD) scanf (\"%d\", A);\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:20:52.337708",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n10) Où sont déclarées les variables locales ?\n\nOptions:\nA) Au début du programme principal.\nB) Au début de chaque fonction où elles interviennent.\nC) Elles sont passées en paramètres dans la déclaration de la fonction.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:20:55.494880",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n5) Dans quel cas l'instruction return n'est pas obligatoire ?\n\nOptions:\nA) Quand la fonction ne prend aucun paramètre en entrée\nB) Quand la fonction est de type void\nC) Quand la fonction doit renvoyer 0\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:20:58.002678",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n6) L’opérateur d’adresse est utilisé dans la fonction :\n\nOptions:\na) Scanf()\nb) Puts()\nc) Printf()\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:21:00.429960",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n7) Choisir la bonne réponse:\nCes instructions : int x; do { scanf(''%d'',&x); } while ((x<-51) || (x>=502 ));\n\nOptions:\nA) saisissent un entier compris dans [-51,502]\nB) saisissent un entier compris dans [-50, 501]\nC) saisissent un entier compris dans [-51, 501]\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T20:21:02.966050",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n12) Que sera le résultat du programme C suivant ?\n\nCode:\n#include<stdio.h> \n#include<string.h> \nint main() \n{ \nchar str1[20] = \"Hello\", str2[20] = \" World\"; \nprintf(\"%s\\n\", strcpy(str2, strcat(str1, str2))); \nreturn 0; \n}\n\n```python\n#include<stdio.h> \n#include<string.h> \nint main() \n{ \nchar str1[20] = \"Hello\", str2[20] = \" World\"; \nprintf(\"%s\\n\", strcpy(str2, strcat(str1, str2))); \nreturn 0; \n}\n```\n\nOptions:\nA) Hello\nB) World\nC) Hello World\nD) WorldHello\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

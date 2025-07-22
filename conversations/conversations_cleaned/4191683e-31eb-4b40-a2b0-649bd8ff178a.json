@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-01T19:22:55.552777",
+    "user_input": "bonjour",
+    "bot_response": "bonjour! je suis votre assistant pédagogique. je peux vous aider avec 1. des questions sur la programmation c posez votre question 2. des quiz dapprentissage tapez quiz que souhaitezvous faire?"
+  },
+  {
+    "timestamp": "2025-06-01T19:23:07.644656",
+    "user_input": "quiz",
+    "bot_response": " question 10 quelle déclaration est fausse? options a une variable se réfère à un emplacement dans la mémoire b une variable doit être déclarée et définie au même temps c une seule variable ne peut pas être définie avec deux types différents dans la même portée d une variable définie une fois peut être définie à nouveau avec une portée différente pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T19:23:43.870968",
+    "user_input": "reponse a",
+    "bot_response": "salutations amicales ! bonjour ! je vois que tu as posé la question quelle déclaration est fausse ? et que tu as sélectionné loption a comme réponse. pas de problème, nous allons analyser cela ensemble ! analysons ta réponse avec bienveillance... je peux voir que tu as choisi loption a sans trop de réflexion, ce qui signifie que tu navais pas encore pensé à la question. cest tout à fait normal, car les questions peuvent être un peu difficiles. la bonne réponse est... b ! cependant, je suis désolé davoir du mal à trouver loption a dans ta réponse, car il ny a pas de selection spécifique mentionnée. mais ne tinquiète pas, nous allons continuer ! pourquoi la réponse estelle correcte ? la bonne réponse est en fait b. cependant, je ne peux pas te dire pour quel motif exactement sans connaître le contenu de loption b. si tu veux savoir pourquoi cest incorrect, nous pouvons discuter cela ensemble ! expliquonsle en détail... je pense quil est temps den apprendre un peu plus ! nous allons prendre une minute pour discuter des options et comprendre comment faire les bonnes choix. questce que tu penses ? encouragement et motivation ! ne tinquiète pas si tu nas pas toujours la réponse facile. cest normal, et cest precisely parce que nous commençons à apprendre ensemble que nous pouvons devenir de meilleurs élèves ! tu as déjà fait un grand pas en posant la question et en essayant de trouver la bonne réponse. continuons notre aventure de découvertes ! alors, questce que tu dirais si nous continuons à discuter des options et en apprenons ensemble ? je suis là pour taider et te soutenir tout au long du processus. pour continuer le quiz, tapez quiz. pour sortir, posez une question."
+  }
+]

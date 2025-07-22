@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-01T17:51:56.067363",
+    "user_input": "quiz",
+    "bot_response": " question 8 soit les déclarations suivantes  int n100 int tabn choisir la bonne réponse  options a on déclare un tableau tab de taille 100. b on déclare un tableau tab de taille n. c les réponses a et b sont correctes. d on ne peut pas déclarer un tableau en utilisant une variable pour la taille. pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-06-01T17:52:34.091393",
+    "user_input": "reponse a",
+    "bot_response": "salut ! je vois que tu as posé une question sur les déclarations et quune réponse a été donnée. je vais essayer de taider, mais dabord, je dois te dire que la réponse que tu as donnée est un peu... inquiétante ! dismoi, quel est le problème avec ta réponse ? questce qui ta conduit à choisir la réponse a lorsque la bonne réponse est bien d ? ne tinquiète pas, cest normal de faire des erreurs. limportant est de comprendre pourquoi et dapprendre de là ! alors, allonsy ! questce que tu as réfléchi avant de choisir ta réponse ? et questce qui te fait penser que la bonne réponse est bien d ? je suis là pour taider et te soutenir. nhésite pas à me partager tes pensées et je vais essayer de texpliquer ce qui sest passé ! et noublie pas, tout le monde peut faire des erreurs, même les plus bons. cest comment on apprend quil est important ! pour continuer le quiz, tapez quiz. pour sortir, posez une question."
+  }
+]

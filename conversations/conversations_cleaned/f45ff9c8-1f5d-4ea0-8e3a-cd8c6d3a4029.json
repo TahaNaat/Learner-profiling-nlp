@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.950551",
+    "user_input": "5 on considère le tableau trié suivant  tab  1, 4, 6, 7, 9, 10, 14 nous souhaitons chercher la valeur 9 en utilisant le principe de la recherche dichotomique. déterminer le nombre de comparaisons effectuées ainsi que les éléments examinés.",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.955553",
+    "user_input": "reponse a",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

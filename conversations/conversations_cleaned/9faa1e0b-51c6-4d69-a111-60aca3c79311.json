@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-07-07T10:50:03.260095",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T10:50:09.852826",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 14 lidentifiant d est également utilisé pour _____? options a char b int c float d double pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-07-07T10:50:38.225741",
+    "user_input": "reponse a",
+    "bot_response": "validation  incorrect la réponse incorrecte car d est lidentifiant pour représenter un nombre entier sans décalage, tandis que d est utilisé pour représenter un nombre entier avec décalage. explication claire de la bonne réponse la bonne réponse est b. lidentifiant b est également utilisé pour afficher un nombre sous forme binaire binnaire. les identifiants x, x, d et f sont souvent utilisés ensemble dans les programmes informatiques pour spécifier la format de sortie de données, notamment les nombres. conseils pour retenir le concept 1. soyez attentif aux différences entre les formats de sortie des données. 2. comprenez que les identifiants x, x, d et f sont souvent utilisés ensemble dans les programmes informatiques. 3. pratiquez la compréhension des différents formats de sortie des données pour réussir les examens et les projets de programmation.  score actuel 01 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  },
+  {
+    "timestamp": "2025-07-07T10:51:03.974774",
+    "user_input": "changer chapitre",
+    "bot_response": " question 15 quelle est la taille du type int? options a 4 octets b 8 octets c dépend du système et du compilateur d ne peut être déterminé pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-07-07T10:51:14.737296",
+    "user_input": "changer de chapitre",
+    "bot_response": "vous avez choisi de changer de chapitre. veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-01T17:51:56.067363",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n8) Soit les déclarations suivantes :\nint n=100; \nint tab[n]; \nChoisir la bonne réponse :\n\nOptions:\nA) On déclare un tableau tab de taille 100.\nB) On déclare un tableau tab de taille n.\nC) Les réponses A et B sont correctes.\nD) On ne peut pas déclarer un tableau en utilisant une variable pour la taille.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T17:52:34.091393",
+    "user_input": "reponse: A",
+    "bot_response": "Salut !\n\nJe vois que tu as posé une question sur les déclarations et qu'une réponse a été donnée. Je vais essayer de t'aider, mais d'abord, je dois te dire que la réponse que tu as donnée est un peu... inquiétante !\n\nDis-moi, quel est le problème avec ta réponse ? Qu'est-ce qui t'a conduit à choisir la réponse A lorsque la bonne réponse est bien D ?\n\nNe t'inquiète pas, c'est normal de faire des erreurs. L'important est de comprendre pourquoi et d'apprendre de là !\n\nAlors, allons-y ! Qu'est-ce que tu as réfléchi avant de choisir ta réponse ? Et qu'est-ce qui te fait penser que la bonne réponse est bien D ?\n\nJe suis là pour t'aider et te soutenir. N'hésite pas à me partager tes pensées et je vais essayer de t'expliquer ce qui s'est passé !\n\nEt n'oublie pas, tout le monde peut faire des erreurs, même les plus bons. C'est comment on apprend qu'il est important !\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  }
+]

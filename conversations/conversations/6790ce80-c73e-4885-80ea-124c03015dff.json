@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-07-07T11:29:39.378952",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T11:29:44.594050",
+    "user_input": "Chapitre 2 _ Les structures conditionnelles",
+    "bot_response": "📝 Question:\n\n10) Quel est le résultat du programme suivant ?\n\nCode:\n#include <stdio.h> \nint main() \n{ \nint i = 3; \nswitch(i)  \n{ case 0+1: printf(\"Fresh\"); \nbreak; \ncase 1+2: printf(\"FreshFresh\"); \nbreak; \ndefault: printf(\"NoFresh\");\n} \nreturn 0; \n}\n\n```python\n#include <stdio.h> \nint main() \n{ \nint i = 3; \nswitch(i)  \n{ case 0+1: printf(\"Fresh\"); \nbreak; \ncase 1+2: printf(\"FreshFresh\"); \nbreak; \ndefault: printf(\"NoFresh\");\n} \nreturn 0; \n}\n```\n\nOptions:\nA) Fresh\nB) FreshFresh\nC) NoFresh\nD) Compile error\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-07-07T11:29:57.674724",
+    "user_input": "reponse/ A",
+    "bot_response": "Pour répondre, écrivez 'reponse: ' suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-07-07T11:30:10.342997",
+    "user_input": "reponse: A",
+    "bot_response": "**Validation**\n\n✅ Correct\n\n**Explication de la bonne réponse**\n\nLe programme donné est un exemple de `switch` avec des cas qui contiennent une expression évaluée au lieu d'une valeur directe.\n\nDans ce cas, les expressions `0+1` et `1+2` sont évaluées avant d'être utilisées comme valeurs de cas. Par conséquent, le programme suivra ces expressions et affichera les messages \"Fresh\" et \"FreshFresh\".\n\n**Conseils pour retenir le concept**\n\nPour comprendre ce programme, il est important de se rappeler que dans un `switch`, on peut utiliser des expressions ou des valeurs directes comme cas.\n\nDans ce cas, l'utilisation d'expressions telles que `0+1` et `1+2` permet de combiner plusieurs opérations au lieu de les séparer avec des points (`;`) ou d'autres caractères. Cela rend la programmation plus concise et plus facile à lire, mais cela nécessite également une attention particulière pour éviter les erreurs.\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  }
+]

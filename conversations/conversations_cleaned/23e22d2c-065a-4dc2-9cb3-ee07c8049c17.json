@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.977549",
+    "user_input": "8 lequel des algorithmes de tri suivants décrit ce principe ? a sélectionner le minimum du tableau  de la 2ème case jusquà la dernière case  b permuter la valeur de cet élément  sil existe avec le premier élément du tableau. c chercher le minimum à partir de la troisième case du tableau et léchanger sil existe avec le deuxième élément du tableau d ce traitement est répété jusquà ce que tout le tableau soit trié.",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.979546",
+    "user_input": "reponse a",
+    "bot_response": "une erreur sest produite. tapez quiz pour réessayer."
+  }
+]

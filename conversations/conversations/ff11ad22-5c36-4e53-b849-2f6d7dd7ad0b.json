@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-25T11:37:02.561233",
+    "user_input": "bonjour",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:37:09.095391",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n13) Quel est le problème lors de la déclaration de la variable suivante?\n\nCode:\nfloat 4Chambre-Hall-Cuisine?;\n\n```python\nfloat 4Chambre-Hall-Cuisine?;\n```\n\nOptions:\nA) Le nom de la variable commence par un entier\nB) Le caractère spécial «-»\nC) Le caractère spécial «?»\nD) Tout les réponses sont vrais\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-25T11:37:35.635713",
+    "user_input": "reponse: A",
+    "bot_response": "**Validation :**\n\n ❌ Incorrect\n\n\n**Explication :**\n\nLe problème se trouve dans la déclaration de la variable `4Chambre-Hall-Cuisine?`. La question se pose est-ce que cela est une erreur ou pas.\n\nEn fait, c'est une bonne pratique en programmation C# de déclarer les variables avec un point (`.`) au lieu d'un trait d'interrogation (`?`). Le trait d'interrogation est utilisé pour indiquer à la compilation qu'une fonction ou une méthode retourne quelque chose.\n\nPar exemple, si on veut déclarer une variable qui représente le nombre de chambres dans une maison, il faudrait utiliser :\n\n```csharp\nfloat 4Chambre = 4;\n```\n\nEt non :\n\n```csharp\nfloat 4Chambre-Hall-Cuisine? = 4;\n```\n\n**Conseils :**\n\n1. **Utilisez le point (`.`) pour déclarer des variables**: Les variables devraient être déclares avec un point au lieu d'un trait d'interrogation.\n2. **Soyez attentif aux règles de syntaxe**: Prenez le temps de lire et d'appliquer les règles de syntaxe de votre langage de programmation pour éviter des erreurs comme celles-ci.\n3. **Utilisez des noms de variables clairs et significatifs**: Les noms de variable devraient être clairs et significatifs pour faciliter la compréhension du code.\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  }
+]

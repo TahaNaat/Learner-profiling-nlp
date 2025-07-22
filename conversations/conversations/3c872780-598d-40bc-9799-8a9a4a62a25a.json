@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-07-02T10:41:36.045891",
+    "user_input": "quiz",
+    "bot_response": "Veuillez choisir un chapitre parmi la liste suivante :\n- Chapitre 1 _ Les entrees sorties\n- Chapitre 2 _ Les structures conditionnelles\n- Chapitre 3 _ Les structures répétitives\n- Chapitre 4 _ Les tableaux I\n- Chapitre 4 _ Les tableaux Tri & recherche II\n- Chapitre 5 _ Les chaines de caractères I\n- Chapitre 5 _ Les chaines de caractères II\n- Chapitre 6 _ les structures\n- Chapitre 7 _ Les fonctions\n- Chapitre 8 _ Les pointeurs\n\nTapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-02T10:41:46.350992",
+    "user_input": "Chapitre 1 _ Les entrees sorties",
+    "bot_response": "📝 Question:\n\n6) En langage C, l’instruction composée est réalisée à partir d’instructions groupées dans un bloc entre deux ....\n\nOptions:\nA) Accolades {}\nB) Parenthèses ()\nC) Crochets []\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-07-02T10:42:16.667122",
+    "user_input": "reponse: A",
+    "bot_response": "🤔\n\n**Validation**\n✅ Correct\n\nLa réponse de l'étudiant est correcte : les instructions composées sont en effet réalisées à partir d'instructions groupées dans un bloc entre deux points-virgule « ; ».\n\n**Explication claire de la bonne réponse**\n\nEn langage C, une instruction composée est une directive qui permet de gérer plusieurs instructions en même temps. Pour que cette directive soit efficace, les instructions doivent être groupées dans un bloc qui est séparé par deux points-virgule « ; » . Cela permet au compilateur de comprendre que toutes les instructions entre le premier point-virgule et le dernier doivent être exécutées en même temps.\n\nPar exemple :\n\n```c\n// Une instruction composée qui groupent plusieurs instructions\nint somme = 0;\nfor (int i = 1 ; i <= 5 ; ++i) {\n    somme += i;\n}\nprintf(\"%d\", somme);\n```\n\nDans cet exemple, le bloc entre les deux points-virgule « ; » regroupe les instructions de la boucle for et la division des résultats par 2.\n\n**Conseils pour retenir le concept**\n\nPour retenir ce concept, il est important de se rappeler que :\n\n* Les instructions composées doivent être groupées entre deux points-virgule « ; ».\n* Le compilateur doit comprendre les instructions entre ces points-virgules pour exécuter la directive correctement.\n\nEn résumé, les instructions composées sont une façon efficace de gérer plusieurs instructions en même temps, et il est important de suivre les règles de structure pour que le compilateur comprenne correctement votre code.\n\n📊 Score actuel: 0/1\n\nPour continuer dans ce chapitre, tapez n'importe quoi. Pour changer de chapitre, tapez 'changer de chapitre'."
+  },
+  {
+    "timestamp": "2025-07-02T10:42:49.975843",
+    "user_input": "continuer",
+    "bot_response": "📝 Question:\n\n16) Quelle comparaison est correcte par rapport à la taille des types de données?\n\nOptions:\nA) char > int > float\nB) int > char > float\nC) char < int < double\nD) double > char > int\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "timestamp": "2025-06-01T15:10:58.504057",
+    "user_input": "quiz\n",
+    "bot_response": "📝 Question:\n\n9) Pour déclarer un tableau \"MaClasse\" de 40 étudiants de cette structure, on peut écrire:\n\nCode:\nstruct etudiant\n{\n   int cin ; \n   float note[10];\n   float moyenne;\n};\nstruct etudiant e1 , e2 , e3 ;\n\n```python\nstruct etudiant\n{\n   int cin ; \n   float note[10];\n   float moyenne;\n};\nstruct etudiant e1 , e2 , e3 ;\n```\n\nOptions:\nA) struct etudiant MaCalasse[40];\nB)  etudiant MaCalasse[40]; \nC) struct etudiant MaCalasse[39];\nD) struct Etudiant MaCalasse[40]; \n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  }
+]

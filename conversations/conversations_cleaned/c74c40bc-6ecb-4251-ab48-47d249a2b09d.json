@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-07-07T11:23:03.617285",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T11:23:16.247167",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-07-07T11:23:29.779181",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 11 lequel des énoncés suivants est vrai pour les noms de variables en c? options a ils peuvent contenir des caractères alphanumériques ainsi que des caractères spéciaux b ce nest pas une erreur de déclarer une variable comme lun des mots clés commegoto, static c les noms de variables ne peuvent pas commencer par un chiffre d la variable peut être de nimporte quelle longueur pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  },
+  {
+    "timestamp": "2025-07-07T11:27:55.730304",
+    "user_input": "reponse a",
+    "bot_response": "validation incorrect explication dans c, les noms de variables ne peuvent pas contenir certains caractères spécifiques qui sont réservés ou utilisés par les directives et les instructions du langage. parmi ceuxci, on trouve les caractères   _ underscore  , , , , , comma, etc. par conséquent, les énoncés suivants ne sont pas tous vrai   a variable name cannot contain an underscore _   symbol is not allowed in a variable name   symbol is not allowed in a variable name mais le langage c permet également de utiliser certaines préfixes et suffixes spécifiques pour les variables, comme par exemple   _global ou _local pour les variables globales ou locales  __builtin_ ou _crtdef_ pour les macros ou les fonctions cest pourquoi la bonne réponse est c, car le langage c permet les noms de variable avec certains caractères spécifiques. conseils pour retenir le concept pour retenir ce concept, voici quelques conseils   lisez attentivement les instructions et les directives du langage c.  familiarisezvous avec les caractères réservés ou utilisés par les directives et les instructions.  utilisez des noms de variable clairs et concis pour éviter les erreurs de syntaxe.  score actuel 02 pour continuer dans ce chapitre, tapez nimporte quoi. pour changer de chapitre, tapez changer de chapitre."
+  },
+  {
+    "timestamp": "2025-07-07T11:29:10.642599",
+    "user_input": "suiz",
+    "bot_response": " question 10 quelle déclaration est fausse? options a une variable se réfère à un emplacement dans la mémoire b une variable doit être déclarée et définie au même temps c une seule variable ne peut pas être définie avec deux types différents dans la même portée d une variable définie une fois peut être définie à nouveau avec une portée différente pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

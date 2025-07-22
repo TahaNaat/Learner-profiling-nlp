@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-25T11:09:22.488142",
+    "user_input": "quiz",
+    "bot_response": "veuillez choisir un chapitre parmi la liste suivante   chapitre 1 _ les entrees sorties  chapitre 2 _ les structures conditionnelles  chapitre 3 _ les structures répétitives  chapitre 4 _ les tableaux i  chapitre 4 _ les tableaux tri  recherche ii  chapitre 5 _ les chaines de caractères i  chapitre 5 _ les chaines de caractères ii  chapitre 6 _ les structures  chapitre 7 _ les fonctions  chapitre 8 _ les pointeurs tapez le nom du chapitre pour continuer."
+  },
+  {
+    "timestamp": "2025-06-25T11:09:43.985862",
+    "user_input": "chapitre 1 _ les entrees sorties",
+    "bot_response": " question 7 soit linstruction a2, 2 est  options a la valeur de la variable a b le nom de la variable a c ladresse dans la ram de la variable a pour répondre, écrivez reponse  suivi de votre choix ex reponse a"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-06-01T17:54:59.867543",
+    "user_input": "quiz",
+    "bot_response": "📝 Question:\n\n10) Où sont déclarées les variables locales ?\n\nOptions:\nA) Au début du programme principal.\nB) Au début de chaque fonction où elles interviennent.\nC) Elles sont passées en paramètres dans la déclaration de la fonction.\n\nPour répondre, écrivez \"reponse: \" suivi de votre choix (ex: reponse: A)"
+  },
+  {
+    "timestamp": "2025-06-01T17:55:46.599037",
+    "user_input": "reponse: A",
+    "bot_response": "Salut ! \n\nJe vois que tu as répondu à la question sur les variables locales avec \"A\". Je veux te féliciter pour avoir tenté de répondre, c'est déjà un grand pas !\n\nMaintenant, je vais t'aider à comprendre ce qui s'est passé. La bonne réponse est en réalité \"B\", mais je comprends que tu as pu être incertain.\n\nLes variables locales sont déclarées dans une fonction ou un bloc de code spécifique, et non partout ailleurs. En d'autres termes, chaque variable locale est liée à une seule fonction ou bloc de code, et ne peut pas être accédée depuis n'importe où ailleurs.\n\nImagine que tu as une boîte avec deux compartiments : un pour les variables locales et un pour les variables globales. Les variables locales sont stockées dans le compartiment local, tandis que les variables globales sont stockées dans le compartiment global qui est accessible depuis n'importe où.\n\nDonc, la bonne réponse est \"B\" parce que c'est là que tu devrais trouver les variables locales. Et ne t'inquiète pas si tu as fait une erreur, c'est tout à fait normal ! Le but est d'apprendre et de progresser, et je suis là pour t'aider.\n\nAlors, quelle est la prochaine question qui te dérange ? N'hésite pas à me demander de l'aide !\n\nPour continuer le quiz, tapez 'quiz'. Pour sortir, posez une question."
+  },
+  {
+    "timestamp": "2025-06-01T17:56:21.297267",
+    "user_input": "C est quoi un pointeur",
+    "bot_response": "Tapez 'quiz' pour commencer."
+  }
+]

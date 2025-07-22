@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-05-26T23:54:51.977549",
+    "user_input": "8) Lequel des algorithmes de tri suivants décrit ce principe ? \na- Sélectionner le minimum du tableau ( de la 2ème case jusqu’à la dernière case ) \nb- Permuter la valeur de cet élément ( s’il existe) avec le premier élément du tableau.  \nc- Chercher le minimum à partir de la troisième case du tableau et l’échanger (s’il \nexiste) avec le deuxième élément du tableau \nd- Ce traitement est répété jusqu’à ce que tout le tableau soit trié.",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  },
+  {
+    "timestamp": "2025-05-26T23:54:51.979546",
+    "user_input": "reponse: A",
+    "bot_response": "Une erreur s'est produite. Tapez 'quiz' pour réessayer."
+  }
+]
