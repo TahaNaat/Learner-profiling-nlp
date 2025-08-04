@@ -1,0 +1,395 @@
+2025-08-04 09:05:27,307 - __main__ - INFO - Démarrage du pipeline d'analyse des apprenants
+2025-08-04 09:05:27,309 - __main__ - INFO - Étape 1: Chargement des données de conversation
+2025-08-04 09:05:27,310 - src.data.loaders - INFO - Found 0 conversation files
+2025-08-04 09:05:27,310 - src.data.loaders - INFO - Loaded 0 total conversations
+2025-08-04 09:05:27,311 - __main__ - ERROR - Aucune conversation trouvée. Arrêt du pipeline.
+2025-08-04 09:10:04,733 - __main__ - INFO - Démarrage du pipeline d'analyse des apprenants
+2025-08-04 09:10:04,734 - __main__ - INFO - Étape 1: Chargement des données de conversation
+2025-08-04 09:10:04,736 - src.data.loaders - INFO - Found 188 conversation files
+2025-08-04 09:10:05,992 - src.data.loaders - INFO - Loaded 422 total conversations
+2025-08-04 09:10:06,010 - __main__ - INFO - Chargé 422 conversations de 188 apprenants
+2025-08-04 09:10:06,011 - __main__ - INFO - Étape 2: Vérification des données de questionnaires (optionnel)
+2025-08-04 09:10:06,011 - __main__ - INFO - Module questionnaire non disponible - analyse basée sur conversations uniquement
+2025-08-04 09:10:06,011 - __main__ - INFO - Étape 3: Analyse comportementale par session
+2025-08-04 09:10:06,025 - __main__ - INFO - Analyse terminée pour la session 00507644-6326-40b6-9cf3-e61e5f4daf62
+2025-08-04 09:10:06,027 - __main__ - INFO - Analyse terminée pour la session 007f8050-cf2c-4b98-9d66-5c7cc8049a08
+2025-08-04 09:10:06,030 - __main__ - INFO - Analyse terminée pour la session 01dbad2e-8fd0-409e-8ea8-fc99724a2be3
+2025-08-04 09:10:06,031 - __main__ - INFO - Analyse terminée pour la session 032be8ef-68e3-4bd5-9dbb-022fb359b209
+2025-08-04 09:10:06,034 - __main__ - INFO - Analyse terminée pour la session 03e73192-cb07-432f-90d1-bb640d1f78fb
+2025-08-04 09:10:06,037 - __main__ - INFO - Analyse terminée pour la session 0837943f-76dd-4ec6-bae9-f22719104db3
+2025-08-04 09:10:06,039 - __main__ - INFO - Analyse terminée pour la session 0b39f64f-6cb5-4765-9d4f-e647c023cc7f
+2025-08-04 09:10:06,042 - __main__ - INFO - Analyse terminée pour la session 0d05360c-e01f-43d4-9548-dc1d3b248163
+2025-08-04 09:10:06,043 - __main__ - INFO - Analyse terminée pour la session 0e941532-d43d-4f06-8857-aca92c1c1e2a
+2025-08-04 09:10:06,045 - __main__ - INFO - Analyse terminée pour la session 114610ec-c40d-4d53-bef9-b05061819a49
+2025-08-04 09:10:06,047 - __main__ - INFO - Analyse terminée pour la session 15c2442a-565f-4a86-bdfc-afecdee1c73c
+2025-08-04 09:10:06,050 - __main__ - INFO - Analyse terminée pour la session 19d0a5cb-53c3-47e2-8fe0-a73d5ed4ee44
+2025-08-04 09:10:06,052 - __main__ - INFO - Analyse terminée pour la session 1c584563-5265-4d0a-912d-5451530bea10
+2025-08-04 09:10:06,054 - __main__ - INFO - Analyse terminée pour la session 1ddc4572-04a6-4906-abfb-e35077864f36
+2025-08-04 09:10:06,058 - __main__ - INFO - Analyse terminée pour la session 1e1c2533-a719-4dbd-8894-5beea597213b
+2025-08-04 09:10:06,060 - __main__ - INFO - Analyse terminée pour la session 1f0a9b80-1625-48bf-84d6-e2ef4a910de2
+2025-08-04 09:10:06,063 - __main__ - INFO - Analyse terminée pour la session 1f3d4fd1-85fc-4740-9813-87343e62c7ab
+2025-08-04 09:10:06,066 - __main__ - INFO - Analyse terminée pour la session 21ecb69c-f01f-4cdf-9e78-984359e1ed69
+2025-08-04 09:10:06,068 - __main__ - INFO - Analyse terminée pour la session 22b32ff6-2deb-4292-8e2c-f8664203ae47
+2025-08-04 09:10:06,071 - __main__ - INFO - Analyse terminée pour la session 23499405-0eb7-4ed4-a614-cbf93428072a
+2025-08-04 09:10:06,073 - __main__ - INFO - Analyse terminée pour la session 23e22d2c-065a-4dc2-9cb3-ee07c8049c17
+2025-08-04 09:10:06,075 - __main__ - INFO - Analyse terminée pour la session 23fcb14b-ee69-4537-904d-41a2048a1248
+2025-08-04 09:10:06,077 - __main__ - INFO - Analyse terminée pour la session 241c9909-8736-40df-a5d7-5990de22f9c8
+2025-08-04 09:10:06,080 - __main__ - INFO - Analyse terminée pour la session 264442b6-7b1d-4292-8587-d742420594e0
+2025-08-04 09:10:06,082 - __main__ - INFO - Analyse terminée pour la session 279b8940-03d3-4f06-a161-03d116df9372
+2025-08-04 09:10:06,084 - __main__ - INFO - Analyse terminée pour la session 281a8dc4-1cb1-4e4f-a823-094ccafa63ab
+2025-08-04 09:10:06,087 - __main__ - INFO - Analyse terminée pour la session 2967fbe4-3f6f-43e5-8dd5-81c874e1465a
+2025-08-04 09:10:06,089 - __main__ - INFO - Analyse terminée pour la session 29f9416b-1e5d-4f23-8927-2c2b033785aa
+2025-08-04 09:10:06,092 - __main__ - INFO - Analyse terminée pour la session 2aabe04e-eece-4bed-b557-47aa2796f8c7
+2025-08-04 09:10:06,094 - __main__ - INFO - Analyse terminée pour la session 2dce023e-f220-4b5d-9a2f-85daf9e92d9e
+2025-08-04 09:10:06,097 - __main__ - INFO - Analyse terminée pour la session 2e41a4a8-bb10-4612-b44f-35491dbcd458
+2025-08-04 09:10:06,100 - __main__ - INFO - Analyse terminée pour la session 2e9221ec-72d4-49b8-840e-23baddb6e4e8
+2025-08-04 09:10:06,102 - __main__ - INFO - Analyse terminée pour la session 2fbc59a4-7b9e-428e-9c3e-a934c9f7133b
+2025-08-04 09:10:06,104 - __main__ - INFO - Analyse terminée pour la session 2ff10989-ce39-4adc-9f90-0d0f5831d87a
+2025-08-04 09:10:06,107 - __main__ - INFO - Analyse terminée pour la session 30552682-5b0a-488f-95cb-aab3f46513f5
+2025-08-04 09:10:06,109 - __main__ - INFO - Analyse terminée pour la session 30c71728-47e3-4375-96b5-f2e7e234f2af
+2025-08-04 09:10:06,111 - __main__ - INFO - Analyse terminée pour la session 31ab2a6c-8251-4cfe-8f52-c0d0c6721f2c
+2025-08-04 09:10:06,113 - __main__ - INFO - Analyse terminée pour la session 3251d3fc-015e-40b3-9a15-fdd2bb9bcfd4
+2025-08-04 09:10:06,116 - __main__ - INFO - Analyse terminée pour la session 36580634-acc8-4e12-b168-364f8e8598a7
+2025-08-04 09:10:06,118 - __main__ - INFO - Analyse terminée pour la session 36e534f1-bd7e-449e-98ad-0034b27f72b4
+2025-08-04 09:10:06,120 - __main__ - INFO - Analyse terminée pour la session 36f39950-d222-486f-a435-55ea6fb9aa23
+2025-08-04 09:10:06,123 - __main__ - INFO - Analyse terminée pour la session 3c872780-598d-40bc-9799-8a9a4a62a25a
+2025-08-04 09:10:06,130 - __main__ - INFO - Analyse terminée pour la session 3e4ce50d-e2e1-4d7f-8316-b1fc16985be3
+2025-08-04 09:10:06,132 - __main__ - INFO - Analyse terminée pour la session 4191683e-31eb-4b40-a2b0-649bd8ff178a
+2025-08-04 09:10:06,134 - __main__ - INFO - Analyse terminée pour la session 41e14d65-6416-4dc9-b53d-d1911ad20132
+2025-08-04 09:10:06,137 - __main__ - INFO - Analyse terminée pour la session 447da374-618b-43c0-bb71-6ed3e18fdf42
+2025-08-04 09:10:06,139 - __main__ - INFO - Analyse terminée pour la session 4530558f-d9a9-4226-972e-8f87243240d9
+2025-08-04 09:10:06,142 - __main__ - INFO - Analyse terminée pour la session 457a0679-3e99-452f-b355-2ba4b34e11cd
+2025-08-04 09:10:06,145 - __main__ - INFO - Analyse terminée pour la session 457da225-ec50-4c73-8fa2-35737e6933bf
+2025-08-04 09:10:06,149 - __main__ - INFO - Analyse terminée pour la session 458b42e3-33ad-4a0b-8127-893e62012217
+2025-08-04 09:10:06,151 - __main__ - INFO - Analyse terminée pour la session 45af299e-94a4-4b44-a842-756c59396156
+2025-08-04 09:10:06,153 - __main__ - INFO - Analyse terminée pour la session 462f2d56-4f80-405d-a4e5-5062382d4a5d
+2025-08-04 09:10:06,156 - __main__ - INFO - Analyse terminée pour la session 4880f2c8-2f0e-41be-98e1-4d53f82e3533
+2025-08-04 09:10:06,159 - __main__ - INFO - Analyse terminée pour la session 489ff45a-7afc-4e23-a3b3-9e0ddbf38e1c
+2025-08-04 09:10:06,164 - __main__ - INFO - Analyse terminée pour la session 49c66c9e-bc41-4850-b994-3efaabb84fcd
+2025-08-04 09:10:06,168 - __main__ - INFO - Analyse terminée pour la session 4a3ba0fa-722f-4dab-97ae-eb8d6e80e977
+2025-08-04 09:10:06,170 - __main__ - INFO - Analyse terminée pour la session 4bed8e4a-439f-4e1d-a099-d81d0fff50ca
+2025-08-04 09:10:06,171 - __main__ - INFO - Analyse terminée pour la session 4c8e3360-67f7-48e6-a63e-316e541f162f
+2025-08-04 09:10:06,173 - __main__ - INFO - Analyse terminée pour la session 4cb1ecc1-67bd-4fca-bb03-c268e6e44f1a
+2025-08-04 09:10:06,175 - __main__ - INFO - Analyse terminée pour la session 4cd71c05-e867-4880-9f0d-9ec1664c092f
+2025-08-04 09:10:06,177 - __main__ - INFO - Analyse terminée pour la session 4d54f602-88c7-4c40-8319-6600bd4aa104
+2025-08-04 09:10:06,179 - __main__ - INFO - Analyse terminée pour la session 4db7655f-6653-47e8-8582-c6ab2216067b
+2025-08-04 09:10:06,181 - __main__ - INFO - Analyse terminée pour la session 4e0539eb-6311-4965-a9ee-39ad6c8f449d
+2025-08-04 09:10:06,183 - __main__ - INFO - Analyse terminée pour la session 4ed3d1e7-c4ab-45bc-8256-e34222f66b3b
+2025-08-04 09:10:06,185 - __main__ - INFO - Analyse terminée pour la session 537cb35f-831e-431a-8359-e83cfa10e200
+2025-08-04 09:10:06,187 - __main__ - INFO - Analyse terminée pour la session 548a6741-4c02-4e6b-944e-66e828628dce
+2025-08-04 09:10:06,189 - __main__ - INFO - Analyse terminée pour la session 5804e584-3cfa-443b-bfaa-70095e18fe67
+2025-08-04 09:10:06,192 - __main__ - INFO - Analyse terminée pour la session 5abfc8de-09d2-4ac3-bd77-d96c9769bc54
+2025-08-04 09:10:06,194 - __main__ - INFO - Analyse terminée pour la session 5d7a714b-ff03-493b-9a07-415943a0296c
+2025-08-04 09:10:06,196 - __main__ - INFO - Analyse terminée pour la session 60b12705-d92f-4892-af0a-a4f6ebecb3c7
+2025-08-04 09:10:06,198 - __main__ - INFO - Analyse terminée pour la session 617c2c62-87f1-4a7c-81e5-5724867fa22e
+2025-08-04 09:10:06,200 - __main__ - INFO - Analyse terminée pour la session 64def0b0-5cb4-4ebb-b681-70ad1c966a60
+2025-08-04 09:10:06,203 - __main__ - INFO - Analyse terminée pour la session 6790ce80-c73e-4885-80ea-124c03015dff
+2025-08-04 09:10:06,206 - __main__ - INFO - Analyse terminée pour la session 68aae927-6575-4700-a0f7-6a99c8694332
+2025-08-04 09:10:06,209 - __main__ - INFO - Analyse terminée pour la session 6a88f810-bfb5-4807-96e4-f342b6ffff3a
+2025-08-04 09:10:06,211 - __main__ - INFO - Analyse terminée pour la session 6d7a3cf6-3291-40ce-b3a2-6c64aaae54f8
+2025-08-04 09:10:06,213 - __main__ - INFO - Analyse terminée pour la session 6e5b92fe-b4e7-40ce-8a6e-ca602a970c36
+2025-08-04 09:10:06,215 - __main__ - INFO - Analyse terminée pour la session 6e86520f-1065-483d-9a0a-cfddfad49a38
+2025-08-04 09:10:06,217 - __main__ - INFO - Analyse terminée pour la session 70086fe3-2849-4b33-8217-e0ebd18f8efe
+2025-08-04 09:10:06,219 - __main__ - INFO - Analyse terminée pour la session 7028590b-7d9f-4759-859d-45a6b374223a
+2025-08-04 09:10:06,223 - __main__ - INFO - Analyse terminée pour la session 71968b7a-e871-4770-884b-766f2dab6de4
+2025-08-04 09:10:06,225 - __main__ - INFO - Analyse terminée pour la session 72315a30-a5a7-47a1-99d9-809e7be52c87
+2025-08-04 09:10:06,227 - __main__ - INFO - Analyse terminée pour la session 72a1c29c-fc7c-4717-9b37-83406f628f13
+2025-08-04 09:10:06,230 - __main__ - INFO - Analyse terminée pour la session 72b93266-75be-4f6b-8674-2d4462fab01e
+2025-08-04 09:10:06,232 - __main__ - INFO - Analyse terminée pour la session 72bf9ff1-8f46-4874-93bf-1f4c89e0a044
+2025-08-04 09:10:06,235 - __main__ - INFO - Analyse terminée pour la session 746133e5-780b-44b1-a19e-375e1e31cce6
+2025-08-04 09:10:06,239 - __main__ - INFO - Analyse terminée pour la session 784f8f91-06e0-4147-9b64-97306b439021
+2025-08-04 09:10:06,241 - __main__ - INFO - Analyse terminée pour la session 79361ba1-f98d-4ad2-ae6d-394ce7a8ee2c
+2025-08-04 09:10:06,243 - __main__ - INFO - Analyse terminée pour la session 7a293cd4-f501-4f1a-8591-d52882d3ae57
+2025-08-04 09:10:06,245 - __main__ - INFO - Analyse terminée pour la session 7cbfa9a1-68ea-4a54-bc75-8f8c827c717e
+2025-08-04 09:10:06,247 - __main__ - INFO - Analyse terminée pour la session 7d90989b-7a03-42da-98a5-0ad6728ea856
+2025-08-04 09:10:06,249 - __main__ - INFO - Analyse terminée pour la session 7fcdb95b-8656-47c5-956b-14a5ea6a5197
+2025-08-04 09:10:06,251 - __main__ - INFO - Analyse terminée pour la session 81921943-f549-4d7d-8d93-8500f87fe759
+2025-08-04 09:10:06,255 - __main__ - INFO - Analyse terminée pour la session 81b5327e-b739-480d-a33f-881bf2f0b824
+2025-08-04 09:10:06,257 - __main__ - INFO - Analyse terminée pour la session 8497cc74-50d5-4d59-af9a-e77d59d515ed
+2025-08-04 09:10:06,259 - __main__ - INFO - Analyse terminée pour la session 86f4336e-964f-4196-a5f3-4b0bcca36970
+2025-08-04 09:10:06,261 - __main__ - INFO - Analyse terminée pour la session 8c7d6e57-fe9f-4766-86a0-0ca55db30b84
+2025-08-04 09:10:06,263 - __main__ - INFO - Analyse terminée pour la session 8d45bd8a-c32e-4f17-b924-659290e60635
+2025-08-04 09:10:06,268 - __main__ - INFO - Analyse terminée pour la session 8dcdc1a0-1f30-49fc-b336-a7590f3a5ea6
+2025-08-04 09:10:06,271 - __main__ - INFO - Analyse terminée pour la session 90901050-ab87-40b1-ae9a-51c0437bf239
+2025-08-04 09:10:06,274 - __main__ - INFO - Analyse terminée pour la session 9256a959-9cc6-4a0e-a181-92c2d2fd080f
+2025-08-04 09:10:06,276 - __main__ - INFO - Analyse terminée pour la session 935689c7-0656-4838-80f2-0660c5b919ee
+2025-08-04 09:10:06,278 - __main__ - INFO - Analyse terminée pour la session 982817f0-0401-4fe5-a76d-4455d32510da
+2025-08-04 09:10:06,280 - __main__ - INFO - Analyse terminée pour la session 98b270f6-0ac3-44db-83bf-b704de086a1d
+2025-08-04 09:10:06,282 - __main__ - INFO - Analyse terminée pour la session 98f0e9e4-6e22-4357-a23a-e0aa31818916
+2025-08-04 09:10:06,285 - __main__ - INFO - Analyse terminée pour la session 99098031-133f-4f24-8eb5-fce2dfc0dc0a
+2025-08-04 09:10:06,287 - __main__ - INFO - Analyse terminée pour la session 9cb7c0b3-10c3-4ebd-9664-6f2cb407dcc0
+2025-08-04 09:10:06,290 - __main__ - INFO - Analyse terminée pour la session 9d0b8f45-09bb-4227-8e2d-ae2ecfcbc555
+2025-08-04 09:10:06,292 - __main__ - INFO - Analyse terminée pour la session 9e4d2d91-2d6a-4bc9-9bb2-23719c7ae48c
+2025-08-04 09:10:06,294 - __main__ - INFO - Analyse terminée pour la session 9e5902b1-651c-4bb1-a679-232a29b89101
+2025-08-04 09:10:06,297 - __main__ - INFO - Analyse terminée pour la session 9faa1e0b-51c6-4d69-a111-60aca3c79311
+2025-08-04 09:10:06,300 - __main__ - INFO - Analyse terminée pour la session a0ad475a-21cf-405d-b754-121cc1f94f7b
+2025-08-04 09:10:06,303 - __main__ - INFO - Analyse terminée pour la session a163696b-a1e6-4a70-ad8b-a104890ac49c
+2025-08-04 09:10:06,305 - __main__ - INFO - Analyse terminée pour la session a1d66e27-ed04-4784-9cf9-ad3a0672e545
+2025-08-04 09:10:06,307 - __main__ - INFO - Analyse terminée pour la session a216a39c-7678-4871-8478-f7f29d63e898
+2025-08-04 09:10:06,309 - __main__ - INFO - Analyse terminée pour la session a262e639-e9bb-42cc-8241-127be84db30f
+2025-08-04 09:10:06,311 - __main__ - INFO - Analyse terminée pour la session a488e0d8-51b6-4945-bfd9-6589ec979d32
+2025-08-04 09:10:06,313 - __main__ - INFO - Analyse terminée pour la session a52c2c6c-53ac-47c7-a534-92f7d3e86fdb
+2025-08-04 09:10:06,316 - __main__ - INFO - Analyse terminée pour la session aceaaea7-5077-4c4d-a503-a466ae464151
+2025-08-04 09:10:06,318 - __main__ - INFO - Analyse terminée pour la session add9532a-ba3a-413f-9b25-4f062dded45f
+2025-08-04 09:10:06,320 - __main__ - INFO - Analyse terminée pour la session af24c870-de12-4030-85ff-9273d0cc5c68
+2025-08-04 09:10:06,323 - __main__ - INFO - Analyse terminée pour la session b047d2f1-b84d-413f-9a2a-1fbaac6aed0f
+2025-08-04 09:10:06,324 - __main__ - INFO - Analyse terminée pour la session b0636414-a52d-4312-b477-e0cece8fe86e
+2025-08-04 09:10:06,326 - __main__ - INFO - Analyse terminée pour la session b12d8b10-801f-4bf9-8965-c3272042c513
+2025-08-04 09:10:06,328 - __main__ - INFO - Analyse terminée pour la session b1c020ec-799e-4324-a206-41f4ff686dcb
+2025-08-04 09:10:06,333 - __main__ - INFO - Analyse terminée pour la session b1f92480-8fe9-4b61-b2c9-a4935cbc0953
+2025-08-04 09:10:06,335 - __main__ - INFO - Analyse terminée pour la session b299a5d7-b57e-4c07-8613-f6dd780a5fc2
+2025-08-04 09:10:06,337 - __main__ - INFO - Analyse terminée pour la session b7aa5c17-e836-4adc-b058-5e207dfc2616
+2025-08-04 09:10:06,339 - __main__ - INFO - Analyse terminée pour la session b9388cf5-833a-448a-b087-45751fb1c22d
+2025-08-04 09:10:06,341 - __main__ - INFO - Analyse terminée pour la session baa1a076-c851-4b45-8edf-115e0c845a84
+2025-08-04 09:10:06,343 - __main__ - INFO - Analyse terminée pour la session bd3e3421-76a6-4aa1-8a44-7530c6c27f21
+2025-08-04 09:10:06,345 - __main__ - INFO - Analyse terminée pour la session bd9dc812-4856-4213-a3f6-648e9d4cd1ae
+2025-08-04 09:10:06,348 - __main__ - INFO - Analyse terminée pour la session becf4bec-33e7-4489-aff5-2f7b1f05d053
+2025-08-04 09:10:06,350 - __main__ - INFO - Analyse terminée pour la session bf411890-0373-441c-85e3-e4e0afc8d0d0
+2025-08-04 09:10:06,353 - __main__ - INFO - Analyse terminée pour la session byblfc4u4xdmcazs6ov
+2025-08-04 09:10:06,356 - __main__ - INFO - Analyse terminée pour la session c2fc437d-9a13-4fd8-b18f-5c5b8835db32
+2025-08-04 09:10:06,359 - __main__ - INFO - Analyse terminée pour la session c418535e-8d01-44b2-9161-a8332098bd83
+2025-08-04 09:10:06,361 - __main__ - INFO - Analyse terminée pour la session c4381f86-316a-4f0d-88bb-4e4287dc8579
+2025-08-04 09:10:06,364 - __main__ - INFO - Analyse terminée pour la session c6430438-fdae-45a9-9d3d-90ede06ce0e6
+2025-08-04 09:10:06,368 - __main__ - INFO - Analyse terminée pour la session c74c40bc-6ecb-4251-ab48-47d249a2b09d
+2025-08-04 09:10:06,370 - __main__ - INFO - Analyse terminée pour la session c8bb6eca-6ca0-4e02-a385-c5d1b6c1de7f
+2025-08-04 09:10:06,373 - __main__ - INFO - Analyse terminée pour la session c98475ad-14e6-4b22-ba2b-7a861291e210
+2025-08-04 09:10:06,375 - __main__ - INFO - Analyse terminée pour la session c9f6716a-004c-4611-ac2f-e528a8fff92b
+2025-08-04 09:10:06,376 - __main__ - INFO - Analyse terminée pour la session ccca9226-97fd-4ed9-a015-d83e44a8820f
+2025-08-04 09:10:06,379 - __main__ - INFO - Analyse terminée pour la session ce390187-e15e-4c2c-9f6d-d3a4e975af0d
+2025-08-04 09:10:06,380 - __main__ - INFO - Analyse terminée pour la session cf182d18-fd94-4964-bd37-2ad91cd2e456
+2025-08-04 09:10:06,382 - __main__ - INFO - Analyse terminée pour la session d0d2c360-57b6-4702-92ef-5b6bf0333a47
+2025-08-04 09:10:06,385 - __main__ - INFO - Analyse terminée pour la session d17eb8ab-7d57-4492-b70b-ab3e9dfe1988
+2025-08-04 09:10:06,387 - __main__ - INFO - Analyse terminée pour la session d37413fb-9de0-4b3f-885c-710b7a8b4010
+2025-08-04 09:10:06,389 - __main__ - INFO - Analyse terminée pour la session d584ebcc-2cc3-47dd-ac19-27462e9b59d1
+2025-08-04 09:10:06,391 - __main__ - INFO - Analyse terminée pour la session d721f42d-683b-40e2-b839-ddc2aa513cf1
+2025-08-04 09:10:06,393 - __main__ - INFO - Analyse terminée pour la session d7a1c293-80e1-4ccb-baf1-4f2b4b333fe4
+2025-08-04 09:10:06,396 - __main__ - INFO - Analyse terminée pour la session d7d9bafc-0b98-42ba-a7a6-159a520a86a6
+2025-08-04 09:10:06,399 - __main__ - INFO - Analyse terminée pour la session d7dd03bc-2d21-4818-acc9-82e9ed6f21d2
+2025-08-04 09:10:06,401 - __main__ - INFO - Analyse terminée pour la session d97cb7e9-4f07-4943-9c2b-e781d3bee4eb
+2025-08-04 09:10:06,403 - __main__ - INFO - Analyse terminée pour la session d9e0c7db-859a-49ff-ad8b-912fa9f2018c
+2025-08-04 09:10:06,405 - __main__ - INFO - Analyse terminée pour la session da847976-3927-43da-953b-5d2843b66545
+2025-08-04 09:10:06,407 - __main__ - INFO - Analyse terminée pour la session df440eb3-00c7-40f5-9325-f1ed24922c17
+2025-08-04 09:10:06,411 - __main__ - INFO - Analyse terminée pour la session df7fcd82-da9d-4781-8d22-01b55bdc7a76
+2025-08-04 09:10:06,413 - __main__ - INFO - Analyse terminée pour la session e206834d-5fc5-4a61-be92-ffc7612071fc
+2025-08-04 09:10:06,415 - __main__ - INFO - Analyse terminée pour la session e464d20a-8189-4567-aa4f-75ef7eb6d8fe
+2025-08-04 09:10:06,417 - __main__ - INFO - Analyse terminée pour la session e48d0728-f622-4fb2-b75b-c838316c016f
+2025-08-04 09:10:06,425 - __main__ - INFO - Analyse terminée pour la session e8b153ab-f24a-451c-984d-710e9f16792b
+2025-08-04 09:10:06,427 - __main__ - INFO - Analyse terminée pour la session ec3215c7-0b17-44c9-8d30-33082aa3464d
+2025-08-04 09:10:06,429 - __main__ - INFO - Analyse terminée pour la session ecda00b6-964c-4ec9-999b-6047d9218233
+2025-08-04 09:10:06,431 - __main__ - INFO - Analyse terminée pour la session ed4bb1da-6dc0-4281-a107-94f5b2627455
+2025-08-04 09:10:06,433 - __main__ - INFO - Analyse terminée pour la session ed5ccecf-989a-4767-b3d9-49c0ef26b8b5
+2025-08-04 09:10:06,435 - __main__ - INFO - Analyse terminée pour la session ed997893-55a0-4065-b732-f5154ebfbe17
+2025-08-04 09:10:06,439 - __main__ - INFO - Analyse terminée pour la session ef9accc9-784a-477b-8a36-523d277e64eb
+2025-08-04 09:10:06,441 - __main__ - INFO - Analyse terminée pour la session f034cab7-88bf-4e1f-b5a9-9fa7924ad983
+2025-08-04 09:10:06,444 - __main__ - INFO - Analyse terminée pour la session f22c64ed-9c14-451d-9f5b-37d026a6b932
+2025-08-04 09:10:06,445 - __main__ - INFO - Analyse terminée pour la session f36415fb-edd4-495d-abb0-44c335d17ced
+2025-08-04 09:10:06,447 - __main__ - INFO - Analyse terminée pour la session f45ff9c8-1f5d-4ea0-8e3a-cd8c6d3a4029
+2025-08-04 09:10:06,450 - __main__ - INFO - Analyse terminée pour la session f544c7be-ff34-48ba-8549-64bc05a80f82
+2025-08-04 09:10:06,452 - __main__ - INFO - Analyse terminée pour la session f82f0605-a133-4d85-971b-ae3499e84d5e
+2025-08-04 09:10:06,455 - __main__ - INFO - Analyse terminée pour la session f8e25e99-9a06-490f-9d4f-4b8166487598
+2025-08-04 09:10:06,457 - __main__ - INFO - Analyse terminée pour la session fa23b713-d798-46a7-ab75-6ce12c2da873
+2025-08-04 09:10:06,459 - __main__ - INFO - Analyse terminée pour la session fb103b38-acdb-48e5-a34e-5aa76a737d06
+2025-08-04 09:10:06,462 - __main__ - INFO - Analyse terminée pour la session fb3c300a-a0ca-4079-a879-b5133ce54294
+2025-08-04 09:10:06,464 - __main__ - INFO - Analyse terminée pour la session fbb003b2-7eb6-480a-96d0-39ee7abc48e6
+2025-08-04 09:10:06,465 - __main__ - INFO - Analyse terminée pour la session fbc69728-8680-4530-94b5-6c293c9425bb
+2025-08-04 09:10:06,467 - __main__ - INFO - Analyse terminée pour la session fc92b738-a9ec-4d8f-a54b-046ac085a6c3
+2025-08-04 09:10:06,471 - __main__ - INFO - Analyse terminée pour la session fccc0693-e8e2-4e21-92dd-9761478413b6
+2025-08-04 09:10:06,472 - __main__ - INFO - Analyse terminée pour la session fd2b8163-dd27-4c8b-8ad0-57cd38e40f70
+2025-08-04 09:10:06,474 - __main__ - INFO - Analyse terminée pour la session fd80b4f5-9c02-4512-b91d-943f2e1af544
+2025-08-04 09:10:06,477 - __main__ - INFO - Analyse terminée pour la session ff11ad22-5c36-4e53-b849-2f6d7dd7ad0b
+2025-08-04 09:10:06,478 - __main__ - INFO - Analyse terminée pour la session rit4mo415hmcazxlkv
+2025-08-04 09:10:06,480 - __main__ - INFO - Analyse terminée pour la session xys2g8wihdmcb0l6iv
+2025-08-04 09:10:06,480 - __main__ - INFO - Étape 4: Génération des profils d'apprenants
+2025-08-04 09:10:06,490 - __main__ - INFO - Profil généré pour 00507644-6326-40b6-9cf3-e61e5f4daf62
+2025-08-04 09:10:06,493 - __main__ - INFO - Profil généré pour 007f8050-cf2c-4b98-9d66-5c7cc8049a08
+2025-08-04 09:10:06,496 - __main__ - INFO - Profil généré pour 01dbad2e-8fd0-409e-8ea8-fc99724a2be3
+2025-08-04 09:10:06,499 - __main__ - INFO - Profil généré pour 032be8ef-68e3-4bd5-9dbb-022fb359b209
+2025-08-04 09:10:06,502 - __main__ - INFO - Profil généré pour 03e73192-cb07-432f-90d1-bb640d1f78fb
+2025-08-04 09:10:06,506 - __main__ - INFO - Profil généré pour 0837943f-76dd-4ec6-bae9-f22719104db3
+2025-08-04 09:10:06,509 - __main__ - INFO - Profil généré pour 0b39f64f-6cb5-4765-9d4f-e647c023cc7f
+2025-08-04 09:10:06,512 - __main__ - INFO - Profil généré pour 0d05360c-e01f-43d4-9548-dc1d3b248163
+2025-08-04 09:10:06,515 - __main__ - INFO - Profil généré pour 0e941532-d43d-4f06-8857-aca92c1c1e2a
+2025-08-04 09:10:06,519 - __main__ - INFO - Profil généré pour 114610ec-c40d-4d53-bef9-b05061819a49
+2025-08-04 09:10:06,522 - __main__ - INFO - Profil généré pour 15c2442a-565f-4a86-bdfc-afecdee1c73c
+2025-08-04 09:10:06,525 - __main__ - INFO - Profil généré pour 19d0a5cb-53c3-47e2-8fe0-a73d5ed4ee44
+2025-08-04 09:10:06,528 - __main__ - INFO - Profil généré pour 1c584563-5265-4d0a-912d-5451530bea10
+2025-08-04 09:10:06,531 - __main__ - INFO - Profil généré pour 1ddc4572-04a6-4906-abfb-e35077864f36
+2025-08-04 09:10:06,536 - __main__ - INFO - Profil généré pour 1e1c2533-a719-4dbd-8894-5beea597213b
+2025-08-04 09:10:06,539 - __main__ - INFO - Profil généré pour 1f0a9b80-1625-48bf-84d6-e2ef4a910de2
+2025-08-04 09:10:06,543 - __main__ - INFO - Profil généré pour 1f3d4fd1-85fc-4740-9813-87343e62c7ab
+2025-08-04 09:10:06,545 - __main__ - INFO - Profil généré pour 21ecb69c-f01f-4cdf-9e78-984359e1ed69
+2025-08-04 09:10:06,548 - __main__ - INFO - Profil généré pour 22b32ff6-2deb-4292-8e2c-f8664203ae47
+2025-08-04 09:10:06,552 - __main__ - INFO - Profil généré pour 23499405-0eb7-4ed4-a614-cbf93428072a
+2025-08-04 09:10:06,555 - __main__ - INFO - Profil généré pour 23e22d2c-065a-4dc2-9cb3-ee07c8049c17
+2025-08-04 09:10:06,558 - __main__ - INFO - Profil généré pour 23fcb14b-ee69-4537-904d-41a2048a1248
+2025-08-04 09:10:06,561 - __main__ - INFO - Profil généré pour 241c9909-8736-40df-a5d7-5990de22f9c8
+2025-08-04 09:10:06,564 - __main__ - INFO - Profil généré pour 264442b6-7b1d-4292-8587-d742420594e0
+2025-08-04 09:10:06,568 - __main__ - INFO - Profil généré pour 279b8940-03d3-4f06-a161-03d116df9372
+2025-08-04 09:10:06,572 - __main__ - INFO - Profil généré pour 281a8dc4-1cb1-4e4f-a823-094ccafa63ab
+2025-08-04 09:10:06,575 - __main__ - INFO - Profil généré pour 2967fbe4-3f6f-43e5-8dd5-81c874e1465a
+2025-08-04 09:10:06,578 - __main__ - INFO - Profil généré pour 29f9416b-1e5d-4f23-8927-2c2b033785aa
+2025-08-04 09:10:06,581 - __main__ - INFO - Profil généré pour 2aabe04e-eece-4bed-b557-47aa2796f8c7
+2025-08-04 09:10:06,584 - __main__ - INFO - Profil généré pour 2dce023e-f220-4b5d-9a2f-85daf9e92d9e
+2025-08-04 09:10:06,589 - __main__ - INFO - Profil généré pour 2e41a4a8-bb10-4612-b44f-35491dbcd458
+2025-08-04 09:10:06,592 - __main__ - INFO - Profil généré pour 2e9221ec-72d4-49b8-840e-23baddb6e4e8
+2025-08-04 09:10:06,596 - __main__ - INFO - Profil généré pour 2fbc59a4-7b9e-428e-9c3e-a934c9f7133b
+2025-08-04 09:10:06,599 - __main__ - INFO - Profil généré pour 2ff10989-ce39-4adc-9f90-0d0f5831d87a
+2025-08-04 09:10:06,603 - __main__ - INFO - Profil généré pour 30552682-5b0a-488f-95cb-aab3f46513f5
+2025-08-04 09:10:06,606 - __main__ - INFO - Profil généré pour 30c71728-47e3-4375-96b5-f2e7e234f2af
+2025-08-04 09:10:06,609 - __main__ - INFO - Profil généré pour 31ab2a6c-8251-4cfe-8f52-c0d0c6721f2c
+2025-08-04 09:10:06,612 - __main__ - INFO - Profil généré pour 3251d3fc-015e-40b3-9a15-fdd2bb9bcfd4
+2025-08-04 09:10:06,615 - __main__ - INFO - Profil généré pour 36580634-acc8-4e12-b168-364f8e8598a7
+2025-08-04 09:10:06,619 - __main__ - INFO - Profil généré pour 36e534f1-bd7e-449e-98ad-0034b27f72b4
+2025-08-04 09:10:06,622 - __main__ - INFO - Profil généré pour 36f39950-d222-486f-a435-55ea6fb9aa23
+2025-08-04 09:10:06,626 - __main__ - INFO - Profil généré pour 3c872780-598d-40bc-9799-8a9a4a62a25a
+2025-08-04 09:10:06,634 - __main__ - INFO - Profil généré pour 3e4ce50d-e2e1-4d7f-8316-b1fc16985be3
+2025-08-04 09:10:06,638 - __main__ - INFO - Profil généré pour 4191683e-31eb-4b40-a2b0-649bd8ff178a
+2025-08-04 09:10:06,640 - __main__ - INFO - Profil généré pour 41e14d65-6416-4dc9-b53d-d1911ad20132
+2025-08-04 09:10:06,644 - __main__ - INFO - Profil généré pour 447da374-618b-43c0-bb71-6ed3e18fdf42
+2025-08-04 09:10:06,647 - __main__ - INFO - Profil généré pour 4530558f-d9a9-4226-972e-8f87243240d9
+2025-08-04 09:10:06,650 - __main__ - INFO - Profil généré pour 457a0679-3e99-452f-b355-2ba4b34e11cd
+2025-08-04 09:10:06,653 - __main__ - INFO - Profil généré pour 457da225-ec50-4c73-8fa2-35737e6933bf
+2025-08-04 09:10:06,658 - __main__ - INFO - Profil généré pour 458b42e3-33ad-4a0b-8127-893e62012217
+2025-08-04 09:10:06,661 - __main__ - INFO - Profil généré pour 45af299e-94a4-4b44-a842-756c59396156
+2025-08-04 09:10:06,664 - __main__ - INFO - Profil généré pour 462f2d56-4f80-405d-a4e5-5062382d4a5d
+2025-08-04 09:10:06,667 - __main__ - INFO - Profil généré pour 4880f2c8-2f0e-41be-98e1-4d53f82e3533
+2025-08-04 09:10:06,670 - __main__ - INFO - Profil généré pour 489ff45a-7afc-4e23-a3b3-9e0ddbf38e1c
+2025-08-04 09:10:06,674 - __main__ - INFO - Profil généré pour 49c66c9e-bc41-4850-b994-3efaabb84fcd
+2025-08-04 09:10:06,679 - __main__ - INFO - Profil généré pour 4a3ba0fa-722f-4dab-97ae-eb8d6e80e977
+2025-08-04 09:10:06,681 - __main__ - INFO - Profil généré pour 4bed8e4a-439f-4e1d-a099-d81d0fff50ca
+2025-08-04 09:10:06,685 - __main__ - INFO - Profil généré pour 4c8e3360-67f7-48e6-a63e-316e541f162f
+2025-08-04 09:10:06,688 - __main__ - INFO - Profil généré pour 4cb1ecc1-67bd-4fca-bb03-c268e6e44f1a
+2025-08-04 09:10:06,692 - __main__ - INFO - Profil généré pour 4cd71c05-e867-4880-9f0d-9ec1664c092f
+2025-08-04 09:10:06,695 - __main__ - INFO - Profil généré pour 4d54f602-88c7-4c40-8319-6600bd4aa104
+2025-08-04 09:10:06,698 - __main__ - INFO - Profil généré pour 4db7655f-6653-47e8-8582-c6ab2216067b
+2025-08-04 09:10:06,703 - __main__ - INFO - Profil généré pour 4e0539eb-6311-4965-a9ee-39ad6c8f449d
+2025-08-04 09:10:06,706 - __main__ - INFO - Profil généré pour 4ed3d1e7-c4ab-45bc-8256-e34222f66b3b
+2025-08-04 09:10:06,709 - __main__ - INFO - Profil généré pour 537cb35f-831e-431a-8359-e83cfa10e200
+2025-08-04 09:10:06,711 - __main__ - INFO - Profil généré pour 548a6741-4c02-4e6b-944e-66e828628dce
+2025-08-04 09:10:06,714 - __main__ - INFO - Profil généré pour 5804e584-3cfa-443b-bfaa-70095e18fe67
+2025-08-04 09:10:06,719 - __main__ - INFO - Profil généré pour 5abfc8de-09d2-4ac3-bd77-d96c9769bc54
+2025-08-04 09:10:06,722 - __main__ - INFO - Profil généré pour 5d7a714b-ff03-493b-9a07-415943a0296c
+2025-08-04 09:10:06,726 - __main__ - INFO - Profil généré pour 60b12705-d92f-4892-af0a-a4f6ebecb3c7
+2025-08-04 09:10:06,729 - __main__ - INFO - Profil généré pour 617c2c62-87f1-4a7c-81e5-5724867fa22e
+2025-08-04 09:10:06,732 - __main__ - INFO - Profil généré pour 64def0b0-5cb4-4ebb-b681-70ad1c966a60
+2025-08-04 09:10:06,736 - __main__ - INFO - Profil généré pour 6790ce80-c73e-4885-80ea-124c03015dff
+2025-08-04 09:10:06,739 - __main__ - INFO - Profil généré pour 68aae927-6575-4700-a0f7-6a99c8694332
+2025-08-04 09:10:06,742 - __main__ - INFO - Profil généré pour 6a88f810-bfb5-4807-96e4-f342b6ffff3a
+2025-08-04 09:10:06,745 - __main__ - INFO - Profil généré pour 6d7a3cf6-3291-40ce-b3a2-6c64aaae54f8
+2025-08-04 09:10:06,747 - __main__ - INFO - Profil généré pour 6e5b92fe-b4e7-40ce-8a6e-ca602a970c36
+2025-08-04 09:10:06,751 - __main__ - INFO - Profil généré pour 6e86520f-1065-483d-9a0a-cfddfad49a38
+2025-08-04 09:10:06,753 - __main__ - INFO - Profil généré pour 70086fe3-2849-4b33-8217-e0ebd18f8efe
+2025-08-04 09:10:06,756 - __main__ - INFO - Profil généré pour 7028590b-7d9f-4759-859d-45a6b374223a
+2025-08-04 09:10:06,760 - __main__ - INFO - Profil généré pour 71968b7a-e871-4770-884b-766f2dab6de4
+2025-08-04 09:10:06,763 - __main__ - INFO - Profil généré pour 72315a30-a5a7-47a1-99d9-809e7be52c87
+2025-08-04 09:10:06,765 - __main__ - INFO - Profil généré pour 72a1c29c-fc7c-4717-9b37-83406f628f13
+2025-08-04 09:10:06,768 - __main__ - INFO - Profil généré pour 72b93266-75be-4f6b-8674-2d4462fab01e
+2025-08-04 09:10:06,771 - __main__ - INFO - Profil généré pour 72bf9ff1-8f46-4874-93bf-1f4c89e0a044
+2025-08-04 09:10:06,775 - __main__ - INFO - Profil généré pour 746133e5-780b-44b1-a19e-375e1e31cce6
+2025-08-04 09:10:06,778 - __main__ - INFO - Profil généré pour 784f8f91-06e0-4147-9b64-97306b439021
+2025-08-04 09:10:06,780 - __main__ - INFO - Profil généré pour 79361ba1-f98d-4ad2-ae6d-394ce7a8ee2c
+2025-08-04 09:10:06,784 - __main__ - INFO - Profil généré pour 7a293cd4-f501-4f1a-8591-d52882d3ae57
+2025-08-04 09:10:06,787 - __main__ - INFO - Profil généré pour 7cbfa9a1-68ea-4a54-bc75-8f8c827c717e
+2025-08-04 09:10:06,790 - __main__ - INFO - Profil généré pour 7d90989b-7a03-42da-98a5-0ad6728ea856
+2025-08-04 09:10:06,793 - __main__ - INFO - Profil généré pour 7fcdb95b-8656-47c5-956b-14a5ea6a5197
+2025-08-04 09:10:06,796 - __main__ - INFO - Profil généré pour 81921943-f549-4d7d-8d93-8500f87fe759
+2025-08-04 09:10:06,799 - __main__ - INFO - Profil généré pour 81b5327e-b739-480d-a33f-881bf2f0b824
+2025-08-04 09:10:06,802 - __main__ - INFO - Profil généré pour 8497cc74-50d5-4d59-af9a-e77d59d515ed
+2025-08-04 09:10:06,805 - __main__ - INFO - Profil généré pour 86f4336e-964f-4196-a5f3-4b0bcca36970
+2025-08-04 09:10:06,808 - __main__ - INFO - Profil généré pour 8c7d6e57-fe9f-4766-86a0-0ca55db30b84
+2025-08-04 09:10:06,811 - __main__ - INFO - Profil généré pour 8d45bd8a-c32e-4f17-b924-659290e60635
+2025-08-04 09:10:06,817 - __main__ - INFO - Profil généré pour 8dcdc1a0-1f30-49fc-b336-a7590f3a5ea6
+2025-08-04 09:10:06,821 - __main__ - INFO - Profil généré pour 90901050-ab87-40b1-ae9a-51c0437bf239
+2025-08-04 09:10:06,824 - __main__ - INFO - Profil généré pour 9256a959-9cc6-4a0e-a181-92c2d2fd080f
+2025-08-04 09:10:06,827 - __main__ - INFO - Profil généré pour 935689c7-0656-4838-80f2-0660c5b919ee
+2025-08-04 09:10:06,830 - __main__ - INFO - Profil généré pour 982817f0-0401-4fe5-a76d-4455d32510da
+2025-08-04 09:10:06,833 - __main__ - INFO - Profil généré pour 98b270f6-0ac3-44db-83bf-b704de086a1d
+2025-08-04 09:10:06,836 - __main__ - INFO - Profil généré pour 98f0e9e4-6e22-4357-a23a-e0aa31818916
+2025-08-04 09:10:06,839 - __main__ - INFO - Profil généré pour 99098031-133f-4f24-8eb5-fce2dfc0dc0a
+2025-08-04 09:10:06,844 - __main__ - INFO - Profil généré pour 9cb7c0b3-10c3-4ebd-9664-6f2cb407dcc0
+2025-08-04 09:10:06,847 - __main__ - INFO - Profil généré pour 9d0b8f45-09bb-4227-8e2d-ae2ecfcbc555
+2025-08-04 09:10:06,850 - __main__ - INFO - Profil généré pour 9e4d2d91-2d6a-4bc9-9bb2-23719c7ae48c
+2025-08-04 09:10:06,853 - __main__ - INFO - Profil généré pour 9e5902b1-651c-4bb1-a679-232a29b89101
+2025-08-04 09:10:06,857 - __main__ - INFO - Profil généré pour 9faa1e0b-51c6-4d69-a111-60aca3c79311
+2025-08-04 09:10:06,860 - __main__ - INFO - Profil généré pour a0ad475a-21cf-405d-b754-121cc1f94f7b
+2025-08-04 09:10:06,863 - __main__ - INFO - Profil généré pour a163696b-a1e6-4a70-ad8b-a104890ac49c
+2025-08-04 09:10:06,865 - __main__ - INFO - Profil généré pour a1d66e27-ed04-4784-9cf9-ad3a0672e545
+2025-08-04 09:10:06,868 - __main__ - INFO - Profil généré pour a216a39c-7678-4871-8478-f7f29d63e898
+2025-08-04 09:10:06,872 - __main__ - INFO - Profil généré pour a262e639-e9bb-42cc-8241-127be84db30f
+2025-08-04 09:10:06,875 - __main__ - INFO - Profil généré pour a488e0d8-51b6-4945-bfd9-6589ec979d32
+2025-08-04 09:10:06,879 - __main__ - INFO - Profil généré pour a52c2c6c-53ac-47c7-a534-92f7d3e86fdb
+2025-08-04 09:10:06,882 - __main__ - INFO - Profil généré pour aceaaea7-5077-4c4d-a503-a466ae464151
+2025-08-04 09:10:06,885 - __main__ - INFO - Profil généré pour add9532a-ba3a-413f-9b25-4f062dded45f
+2025-08-04 09:10:06,888 - __main__ - INFO - Profil généré pour af24c870-de12-4030-85ff-9273d0cc5c68
+2025-08-04 09:10:06,890 - __main__ - INFO - Profil généré pour b047d2f1-b84d-413f-9a2a-1fbaac6aed0f
+2025-08-04 09:10:06,892 - __main__ - INFO - Profil généré pour b0636414-a52d-4312-b477-e0cece8fe86e
+2025-08-04 09:10:06,895 - __main__ - INFO - Profil généré pour b12d8b10-801f-4bf9-8965-c3272042c513
+2025-08-04 09:10:06,898 - __main__ - INFO - Profil généré pour b1c020ec-799e-4324-a206-41f4ff686dcb
+2025-08-04 09:10:06,902 - __main__ - INFO - Profil généré pour b1f92480-8fe9-4b61-b2c9-a4935cbc0953
+2025-08-04 09:10:06,907 - __main__ - INFO - Profil généré pour b299a5d7-b57e-4c07-8613-f6dd780a5fc2
+2025-08-04 09:10:06,911 - __main__ - INFO - Profil généré pour b7aa5c17-e836-4adc-b058-5e207dfc2616
+2025-08-04 09:10:06,913 - __main__ - INFO - Profil généré pour b9388cf5-833a-448a-b087-45751fb1c22d
+2025-08-04 09:10:06,917 - __main__ - INFO - Profil généré pour baa1a076-c851-4b45-8edf-115e0c845a84
+2025-08-04 09:10:06,921 - __main__ - INFO - Profil généré pour bd3e3421-76a6-4aa1-8a44-7530c6c27f21
+2025-08-04 09:10:06,924 - __main__ - INFO - Profil généré pour bd9dc812-4856-4213-a3f6-648e9d4cd1ae
+2025-08-04 09:10:06,927 - __main__ - INFO - Profil généré pour becf4bec-33e7-4489-aff5-2f7b1f05d053
+2025-08-04 09:10:06,930 - __main__ - INFO - Profil généré pour bf411890-0373-441c-85e3-e4e0afc8d0d0
+2025-08-04 09:10:06,933 - __main__ - INFO - Profil généré pour byblfc4u4xdmcazs6ov
+2025-08-04 09:10:06,938 - __main__ - INFO - Profil généré pour c2fc437d-9a13-4fd8-b18f-5c5b8835db32
+2025-08-04 09:10:06,940 - __main__ - INFO - Profil généré pour c418535e-8d01-44b2-9161-a8332098bd83
+2025-08-04 09:10:06,943 - __main__ - INFO - Profil généré pour c4381f86-316a-4f0d-88bb-4e4287dc8579
+2025-08-04 09:10:06,947 - __main__ - INFO - Profil généré pour c6430438-fdae-45a9-9d3d-90ede06ce0e6
+2025-08-04 09:10:06,951 - __main__ - INFO - Profil généré pour c74c40bc-6ecb-4251-ab48-47d249a2b09d
+2025-08-04 09:10:06,955 - __main__ - INFO - Profil généré pour c8bb6eca-6ca0-4e02-a385-c5d1b6c1de7f
+2025-08-04 09:10:06,958 - __main__ - INFO - Profil généré pour c98475ad-14e6-4b22-ba2b-7a861291e210
+2025-08-04 09:10:06,961 - __main__ - INFO - Profil généré pour c9f6716a-004c-4611-ac2f-e528a8fff92b
+2025-08-04 09:10:06,964 - __main__ - INFO - Profil généré pour ccca9226-97fd-4ed9-a015-d83e44a8820f
+2025-08-04 09:10:06,969 - __main__ - INFO - Profil généré pour ce390187-e15e-4c2c-9f6d-d3a4e975af0d
+2025-08-04 09:10:06,971 - __main__ - INFO - Profil généré pour cf182d18-fd94-4964-bd37-2ad91cd2e456
+2025-08-04 09:10:06,974 - __main__ - INFO - Profil généré pour d0d2c360-57b6-4702-92ef-5b6bf0333a47
+2025-08-04 09:10:06,977 - __main__ - INFO - Profil généré pour d17eb8ab-7d57-4492-b70b-ab3e9dfe1988
+2025-08-04 09:10:06,981 - __main__ - INFO - Profil généré pour d37413fb-9de0-4b3f-885c-710b7a8b4010
+2025-08-04 09:10:06,984 - __main__ - INFO - Profil généré pour d584ebcc-2cc3-47dd-ac19-27462e9b59d1
+2025-08-04 09:10:06,987 - __main__ - INFO - Profil généré pour d721f42d-683b-40e2-b839-ddc2aa513cf1
+2025-08-04 09:10:06,990 - __main__ - INFO - Profil généré pour d7a1c293-80e1-4ccb-baf1-4f2b4b333fe4
+2025-08-04 09:10:06,994 - __main__ - INFO - Profil généré pour d7d9bafc-0b98-42ba-a7a6-159a520a86a6
+2025-08-04 09:10:06,997 - __main__ - INFO - Profil généré pour d7dd03bc-2d21-4818-acc9-82e9ed6f21d2
+2025-08-04 09:10:07,001 - __main__ - INFO - Profil généré pour d97cb7e9-4f07-4943-9c2b-e781d3bee4eb
+2025-08-04 09:10:07,005 - __main__ - INFO - Profil généré pour d9e0c7db-859a-49ff-ad8b-912fa9f2018c
+2025-08-04 09:10:07,008 - __main__ - INFO - Profil généré pour da847976-3927-43da-953b-5d2843b66545
+2025-08-04 09:10:07,011 - __main__ - INFO - Profil généré pour df440eb3-00c7-40f5-9325-f1ed24922c17
+2025-08-04 09:10:07,015 - __main__ - INFO - Profil généré pour df7fcd82-da9d-4781-8d22-01b55bdc7a76
+2025-08-04 09:10:07,018 - __main__ - INFO - Profil généré pour e206834d-5fc5-4a61-be92-ffc7612071fc
+2025-08-04 09:10:07,021 - __main__ - INFO - Profil généré pour e464d20a-8189-4567-aa4f-75ef7eb6d8fe
+2025-08-04 09:10:07,025 - __main__ - INFO - Profil généré pour e48d0728-f622-4fb2-b75b-c838316c016f
+2025-08-04 09:10:07,028 - __main__ - INFO - Profil généré pour e8b153ab-f24a-451c-984d-710e9f16792b
+2025-08-04 09:10:07,031 - __main__ - INFO - Profil généré pour ec3215c7-0b17-44c9-8d30-33082aa3464d
+2025-08-04 09:10:07,034 - __main__ - INFO - Profil généré pour ecda00b6-964c-4ec9-999b-6047d9218233
+2025-08-04 09:10:07,037 - __main__ - INFO - Profil généré pour ed4bb1da-6dc0-4281-a107-94f5b2627455
+2025-08-04 09:10:07,040 - __main__ - INFO - Profil généré pour ed5ccecf-989a-4767-b3d9-49c0ef26b8b5
+2025-08-04 09:10:07,042 - __main__ - INFO - Profil généré pour ed997893-55a0-4065-b732-f5154ebfbe17
+2025-08-04 09:10:07,047 - __main__ - INFO - Profil généré pour ef9accc9-784a-477b-8a36-523d277e64eb
+2025-08-04 09:10:07,050 - __main__ - INFO - Profil généré pour f034cab7-88bf-4e1f-b5a9-9fa7924ad983
+2025-08-04 09:10:07,054 - __main__ - INFO - Profil généré pour f22c64ed-9c14-451d-9f5b-37d026a6b932
+2025-08-04 09:10:07,056 - __main__ - INFO - Profil généré pour f36415fb-edd4-495d-abb0-44c335d17ced
+2025-08-04 09:10:07,061 - __main__ - INFO - Profil généré pour f45ff9c8-1f5d-4ea0-8e3a-cd8c6d3a4029
+2025-08-04 09:10:07,063 - __main__ - INFO - Profil généré pour f544c7be-ff34-48ba-8549-64bc05a80f82
+2025-08-04 09:10:07,066 - __main__ - INFO - Profil généré pour f82f0605-a133-4d85-971b-ae3499e84d5e
+2025-08-04 09:10:07,070 - __main__ - INFO - Profil généré pour f8e25e99-9a06-490f-9d4f-4b8166487598
+2025-08-04 09:10:07,074 - __main__ - INFO - Profil généré pour fa23b713-d798-46a7-ab75-6ce12c2da873
+2025-08-04 09:10:07,077 - __main__ - INFO - Profil généré pour fb103b38-acdb-48e5-a34e-5aa76a737d06
+2025-08-04 09:10:07,080 - __main__ - INFO - Profil généré pour fb3c300a-a0ca-4079-a879-b5133ce54294
+2025-08-04 09:10:07,083 - __main__ - INFO - Profil généré pour fbb003b2-7eb6-480a-96d0-39ee7abc48e6
+2025-08-04 09:10:07,086 - __main__ - INFO - Profil généré pour fbc69728-8680-4530-94b5-6c293c9425bb
+2025-08-04 09:10:07,089 - __main__ - INFO - Profil généré pour fc92b738-a9ec-4d8f-a54b-046ac085a6c3
+2025-08-04 09:10:07,092 - __main__ - INFO - Profil généré pour fccc0693-e8e2-4e21-92dd-9761478413b6
+2025-08-04 09:10:07,098 - __main__ - INFO - Profil généré pour fd2b8163-dd27-4c8b-8ad0-57cd38e40f70
+2025-08-04 09:10:07,103 - __main__ - INFO - Profil généré pour fd80b4f5-9c02-4512-b91d-943f2e1af544
+2025-08-04 09:10:07,110 - __main__ - INFO - Profil généré pour ff11ad22-5c36-4e53-b849-2f6d7dd7ad0b
+2025-08-04 09:10:07,114 - __main__ - INFO - Profil généré pour rit4mo415hmcazxlkv
+2025-08-04 09:10:07,119 - __main__ - INFO - Profil généré pour xys2g8wihdmcb0l6iv
+2025-08-04 09:10:07,119 - __main__ - INFO - Étape 5: Sauvegarde des résultats
+2025-08-04 09:10:07,325 - __main__ - INFO - Résultats sauvegardés dans C:\Users\tahan\OneDrive\Bureau\Learner-profiling-nlp-main\output
+2025-08-04 09:10:07,325 - __main__ - INFO - Étape 6: Génération du tableau de bord
+2025-08-04 09:10:07,326 - __main__ - INFO - Tableau de bord créé. Lancez dashboard.py pour l'interface interactive.
+2025-08-04 09:10:07,326 - __main__ - INFO - Pipeline terminé avec succès

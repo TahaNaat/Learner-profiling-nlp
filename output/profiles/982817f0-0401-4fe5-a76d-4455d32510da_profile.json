@@ -1,0 +1,42 @@
+{
+  "learner_id": "982817f0-0401-4fe5-a76d-4455d32510da",
+  "learning_style": {
+    "visual": 0.25,
+    "auditory": 0.25,
+    "reading": 0.25,
+    "kinesthetic": 0.25
+  },
+  "personality": {
+    "extraversion": 0.5,
+    "intuition": 0.5,
+    "thinking": 0.5,
+    "judging": 0.5
+  },
+  "cognitive": {
+    "processing_speed": 0.5,
+    "working_memory": 0.0,
+    "analytical_thinking": 0.0,
+    "creative_thinking": 0.0,
+    "attention_span": 0.1
+  },
+  "behavioral": {
+    "engagement_level": 0.15,
+    "persistence": 0.13333333333333333,
+    "help_seeking": 0.0,
+    "collaboration_preference": 0.0,
+    "self_regulation": 0.0
+  },
+  "difficulty_areas": [
+    "Faible engagement interrogatif"
+  ],
+  "strengths": [],
+  "recommended_strategies": [
+    "Respecter le besoin de temps de réflexion individuelle",
+    "Fournir des exemples concrets et étapes détaillées",
+    "Décomposer les informations en petites unités",
+    "Encourager à poser des questions et demander de l'aide",
+    "Proposer des objectifs courts et réalisables"
+  ],
+  "confidence_level": 0.23333333442956347,
+  "last_updated": "2025-08-04T09:10:06.830842"
+}

@@ -54,6 +54,7 @@ class AppConfig:
         if self.data_dir is None:
             # Check multiple possible locations for conversations
             possible_paths = [
+                self.project_root / "conversations" / "conversations",  # Your actual structure
                 self.project_root / "conversations",
                 self.project_root / "data" / "conversations",
                 Path.cwd() / "conversations"
@@ -65,7 +66,7 @@ class AppConfig:
                     break
             else:
                 # Default fallback
-                self.data_dir = self.project_root / "conversations"
+                self.data_dir = self.project_root / "conversations" / "conversations"
 
         if self.output_dir is None:
             self.output_dir = self.project_root / "output"
